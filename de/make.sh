@@ -1,10 +1,17 @@
 PATH=$PATH:/Library/TeX/texbin:/usr/texbin:/usr/local/bin
+PATH=$PATH:/Applications/calibre.app/Contents/console.app/Contents/MacOS
+f="lernOS-for-Organizations-Guide-de"
 
-pandoc lernOS-Guide-for-Organizations-de.md -o lernOS-Guide-for-Organizations-de.docx
+rm -f $f.docx $f.html $f.pdf $f.epub $f.mobi
 
-pandoc -s --toc -o lernOS-Guide-for-Organizations-de.html lernOS-Guide-for-Organizations-de.md
+pandoc $f.md metadata/metadata.yaml -o $f.docx
 
-pandoc lernOS-Guide-for-Organizations-de.md metadata/metadata.yaml -o lernOS-Guide-for-Organizations-de.pdf --template eisvogel
+pandoc $f.md metadata/metadata.yaml -s --toc -o $f.html
 
-magick -density 300 lernOS-Guide-for-Organizations-de.pdf[0] images/ebook-cover.png
-pandoc -s --epub-cover-image=images/ebook-cover.png -o lernOS-Guide-for-Organizations-de.epub lernOS-Guide-for-Organizations-de.md
+pandoc $f.md metadata/metadata.yaml --template eisvogel -o $f.pdf
+
+magick -density 300 $f.pdf[0] images/ebook-cover.jpg
+mogrify -size 2500x2500 -resize 2500x2500 images/ebook-cover.jpg
+mogrify -crop 1563x2500+102+0 images/ebook-cover.jpg
+pandoc $f.md metadata/metadata.yaml -s --epub-cover-image=images/ebook-cover.jpg -o $f.epub
+ebook-convert $f.epub $f.mobi
