@@ -8,7 +8,7 @@ pandoc $f.md metadata/metadata.yaml -o $f.docx
 
 pandoc $f.md metadata/metadata.yaml -s --toc -o $f.html
 
-pandoc $f.md metadata/metadata.yaml --template eisvogel -o $f.pdf
+pandoc $f.md metadata/metadata.yaml --template lernos -o $f.pdf
 
 magick -density 300 $f.pdf[0] images/ebook-cover.jpg
 mogrify -size 2500x2500 -resize 2500x2500 images/ebook-cover.jpg
