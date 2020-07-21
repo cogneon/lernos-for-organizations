@@ -6,13 +6,8 @@ Zu lernOS gibt es **drei grundlegende Leitfäden** beschrieben, die den Ansatz a
 
 Wenn du **weitere Fragen** bezüglich lernOS hast, oder **Unterstützung von Gleichgesinnten** brauchst, kannst du die Community-Plattform [CONNECT](https://community.cogneon.de) nutzen oder mit [#lernOS](https://twitter.com/search?q=%23lernOS) auf Twitter schreiben. Beachte: Die Meisterschaft von lernOS ist eine Frage von Monaten oder Jahren, nicht Stunden oder Tagen. Also: **Keep Calm & Learn On!**
 
-Dein @simondueckert
-
-# Danksagungen
-
-lernOS ist von vielen Personen und Quellen inspiriert und steht daher [auf den Schultern von Riesen](https://de.wikipedia.org/wiki/Zwerge_auf_den_Schultern_von_Riesen). Ein Überblick über die Wurzeln und Inspirationen habe ich [im lernOS Wiki](https://github.com/cogneon/lernos-core/wiki) zusammengestellt. Für diesen Leitfaden möchte ich besonders danken:
-
-* ...
+Dein
+@simondueckert
 
 # Grundlagen
 Die digital-vernetzte Wissensgesellschaft des 21. Jahrhunderts benötigt andere Formen der Organisation, als das stabile Industriezeitalter des letzten Jahrhunderts. Statt rein hierarchischen Organisationsstrukturen setzen sich Lernende Organisationen mit flexiblen und agilen Strukturen im Wettbewerb durch.
@@ -22,39 +17,67 @@ lernOS ist ein modulares Organisationssystem für Einzelpersonen, Teams, Organis
 * Das groß geschriebene **OS** ist an die Schreibweise von iOS & Co. angelehnt. Es steht für Struktur und Systematik, wird aber als „Organisationssystem" und nicht als „Operating System" ausgeschrieben. Das soll auf der einen Seite den Bezug zur Digitalisierung herstellen, aber auch darauf hinweisen, dass sich Menschen nicht in starren und unflexiblen Form eines Betriebssystems organisieren, sondern sehr organisch und kreativ.
 * Lernos ist in Esperanto das Indikativ Futur des Verbs für **lernen** (lerni). Es kann mit „Ich werde lernen" (mi lernos), „Du wirst lernen" (vi lernos), „wir werden lernen" (ni lernos) und „ihr werdet lernen" (vi lernos). Über den Esperanto-Bezug wird auf die globale Bedeutung des Lernens hingewiesen (daher auch „lernOS" nicht „LearnOS") und gleichzeitig die Bedeutung des Lebenslangen Lernens auf allen Ebenen unterstrochen.
 
-## Erfolgsfaktoren
 
-lernOS ist eine praxiserprobte Systematik, keine Wunderwaffe! Damit ein Akteur mit lernOS erfolgreich ist, kommt es in Bezug auf den Umgang mit Wissen und den eigenen Lernprozessen auf die grundsätzliche **Haltung** (Mindset), die vorhandenen **Fähigkeiten** (Skillset) und die eingesetzten **Methoden und Werkzeuge** (Toolset) an. Der Begriff „Werkzeuge" ist dabei sehr weit gefasst, es geht nicht nur um IT-Werkzeuge und Apps, sondern alle Arten von Hilfsmitteln, die den Umgang Wissen und das Lernen unterstützen.
-
-... Bild ...
-
-Die **drei Erfolgsfaktoren** für einen **ganzheitlichen Umgang mit Wissen und Lernen** sind dabei wie folgt definiert:
-
-* **Mindset:** Die Haltung, mit der man an Wissen und Lernen herangeht.
-* **Skillset:** Die Fähigkeiten, die man im Umgang mit Wissen und Lernen hat.
-* **Toolset:** die Methoden und Werkzeuge, die man im Umgang mit Wissen und Lernen nutzt.
 
 ## Wie funktioniert lernOS?
 
 Viele Unternehmen und Organisationen sind heute noch nach dem Vorbild von Militär oder bürokratischen Organisationen strukturiert. Organigramme teilen Abteilungen hierarchisch ab und verwandeln sie somit
 in Wissenssilos. Prozess- und Projektstrukturen formalisieren übergreifende Zusammenarbeit sind aber oft zu starr und wenig flexibel.
 
-An dieser Ausgangssituation setzt LernOS an. Anders als beispielsweise bei Holocracy soll nicht eine völlig neue Struktur geschaffen, sondern die bestehende Organisationsstruktur um ein neues Organisationssystem (OS) ergänzt werden.
+An dieser Ausgangssituation setzt lernOS an. Anders als beispielsweise bei Holocracy soll nicht eine völlig neue Struktur geschaffen, sondern die bestehende Organisationsstruktur um ein neues Organisationssystem (OS) ergänzt werden.
+
+# Definitionen
+
+Management = Führung und Gestaltung einer Organisation
+
+Wissensmanagement = Führung und Gestaltung einer Lernenden Organisation
+
+Lernende Organisation = ...
+
+Lernen = ...
+
+Organisation = ...
+
+Link auf lernOS Glossar
+
+## VUCA-Welt - kontinuierliche Veränderung erfordert Lernen
+
+...
+
+## Lernende Organisation
+
+... Formell vs. Informell ...
+
+... Lernkultur - Lernprozesse - Lernumgebung ...
+
+... Fünf Disziplinen ...
+
+## Lern-Koalition
+
+... Lernende Organisation als Shared Vision ...
+
+... Accelerate ...
+
+## Change Management im 21. Jahrhundert
+
+... Army of Volunteers ...
+
+... [Gleichers Formula for Change](https://en.wikipedia.org/wiki/Formula_for_change) ...
 
 ## lernOS Prozess
 
-Die Anwendung von LernOS erfolgt in fünf einfachen Schritten, die im Folgenden erklärt werden.
+Die Anwendung von lernOS erfolgt in fünf einfachen Schritten, die im Folgenden erklärt werden.
 
 ... Bild ...
 
-### lernOS Scope
+## lernOS Scope
 
 Ähnlich wie das Medium E-Mail kann lernOS von Einzelpersonen, Gruppen, Organisationen oder ganze Gesellschaften angewendet werden. LernOS deckt somit das ganze Spektrum vom individuellen Lebenslangen Lernen über Lernende Organisationen bis hin zur Wissensgesellschaft (auch Lernende Gesellschaft) ab.
 
 Im ersten Schritt ist daher mit dem **lernOS Scope** der Anwendungsbereich von LernOS festzulegen. Natürlich kann sich lernOS im Lauf der Entwicklung von einzelnen Mitarbeitern auf ganze Abteilungen
 oder von Abteilungen auf ganze Unternehmen ausweiten. Alle Personen im Anwendungsbereich müssen bezüglich LernOS auf den gleichen Informationsstand gebracht werden. Dazu können z.B. Handbuch, Wiki, Video, Webinare und Workshops verwendet werden.
 
-### lernOS Strategy
+## lernOS Strategy
 
 Anschließend wird mit der **lernOS Strategy** eine Strategie für den Anwendungsbereich der Lernenden Organisation entwickelt. Hierzu werden acht Handlungsfelder angeboten, die mit dem Konzept der Lernenden
 Organisation \[1\], dem Management-Standard ISO 9001:2015 \[2\] und den Kriterien für den Most Admired Knowledge Enterprise Award \[3\] kompatibel sind:
@@ -72,18 +95,18 @@ Für den Anwendungsbereich können ein, mehrere oder alle Handlungsfelder ausgew
 
 Aus den Kombinationen Stärken-Chancen, Stärken-Gefahren, Schwächen-Chancen und Schwächen-Gefahren werden dann Ideen für ein Portfolio von Maßnahmen entwickelt. Als Impulsgeber für die Maßnahmenentwicklung kann die Tool-Sammlung lernOS Toolbox (siehe Seite 5) mit Methoden und Werkzeugen für die Lernende Organisation herangezogen werden.
 
-### lernOS Plan
+## lernOS Plan
 
 Im **lernOS Plan** werden die Maßnahmen entlang der Handlungsfelder ausgeplant. Der Planungszeitraum kann in der Praxis sehr unterschiedlich sein. Es empfiehlt sich in Anlehnung an das agile Projektmanagement „auf Sicht" zu planen und längere Zeiträume durch kürzere Etappen (sog. Sprints) mit Zwischen-Reviews zu unterteilen.
 
 Wird beispielsweise über einen Zeitraum von drei oder sechs Monaten geplant, kann dieser in 4-wöchigen Sprints mit Sprint-Reviews geteilt und mit einem Review nach Abschluss des Zeitraums versehen werden.
 
-### lernOS Sprints
+## lernOS Sprints
 
 Der Einsatz eines neuen lernOS Tools benötigt in der Praxis meist etwas Übung und Begleitung. Diesen Zweck erfüllen die **lernOS Sprints**, bei denen der Einsatz eines Tools geplant, umgesetzt und in mehreren
 Iterationen (z.B. 3 x 1 Monat) auf die eigenen Bedürfnisse angepasst wird.
 
-### lernOS Reviews
+## lernOS Reviews
 
 In regelmäßigen Abständen (z.B. einmal pro Quartal) wird das gesamte Organisationssystem im **lernOS Review** auf den Prüfstand gestellt. Für Scope, Strategie, Plan und ausgewählten Tools wird entschieden, ob diese wie bisher weitergeführt werden sollen oder verbessert/angepasst werden müssen. Für das lernOS Review sollte ausreichend Zeit zur Verfügung stehen (z.B. 1 Tag/Halbjahr). Es empfiehlt sich, das Review außerhalb der gewohnten Umgebung durchzuführen, um Störungen zu vermeiden und Kreativität zu fördern.
 
@@ -117,19 +140,20 @@ Im Folgenden wird die lernOS Toolbox im Detail vorgestellt. Zu jedem Tool gibt e
 \[1\] D. A. Garvin, A. C. Edmondson, und F. Gino, „Is Yours a Learning Organization?", *Harvard Business Review*, März 2008.\[2\] DIN Deutsches Institut für Normung e.V., Hrsg., „Qualitätsmanagementsysteme -
 Anforderungen (ISO 9001:2015); Deutsche und Englische Fassung". Nov-2015.\[3\] R. L. Chase, „How to Become a MAKE Winner". 2016.
 
-# Stop talking, start doing!
+# Lernpfad
 
-Wenn Du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt, solltest Du jetzt damit beginnen! Mit lernOS zu starten ist wirklich einfach. Diese fünf Schritte werden Dir beim reibungslosen Start helfen:
+...
 
-1.  **Zeit einplanen:** definiere das Quartal, in dem Du mit lernOS starten möchtest. Trage Dir die Zeiten für das Weekly in den Kalender ein. Dieser regelmäßige Termin ist besonders wichtig, wenn Du lernOS in einem Circle praktizierst.
-1.  **Ziele und Schlüsselergebnisse definieren:** nutze Woche 0, um Deine Ziele und messbare Ergebnisse für den Sprint festzulegen. Wähle ein Ziel, das Dir wirklich, wirklich am Herzen liegt.
-1.  **Einen Circle gründen:** suche nach 3-4 Mitstreitern, die im selben Quartal einen Sprint starten wollen. Wenn jemand schon in einem anderen Circle war, kann er die Rolle des Circle-Moderator übernehmen.
-1.  **Organisiere das Weekly:** wenn Ihr Euch im Circle nicht kennt, trefft Euch in Woche 0 am besten persönlich. Nutzt soziale Netzwerke oder Messenger, um zwischen den Treffen zu kommunizieren. Nutzt Videokonferenzen, um virtuelle Treffen zu organisieren.
-1.  **Plan, Do, Learn, Repeat:** Nutzt das letzte Weekly in der Woche 12, um die Ergebnisse und die Zusammenarbeit im Kreis zu reflektieren. Entscheidet, ob Ihr einen weiteren Sprint gemeinsam durchlaufen wollt.
+# Anhang
 
-Keep Calm & Learn On! :-)
+## Danksagungen
 
-# Änderungshistorie
+lernOS ist von vielen Personen und Quellen inspiriert und steht daher [auf den Schultern von Riesen](https://de.wikipedia.org/wiki/Zwerge_auf_den_Schultern_von_Riesen). Ein Überblick über die Wurzeln und Inspirationen habe ich [im lernOS Wiki](https://github.com/cogneon/lernos-core/wiki) zusammengestellt. Für diesen Leitfaden möchte ich besonders danken:
+
+* ...
+
+## Änderungshistorie
+
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
 |-----|----------------|----------------------------------------------|----------|
 | 0.1 | Simon Dückert | Erstellung der ersten Version des lernOS Handbuchs | 12.06.2017 |
