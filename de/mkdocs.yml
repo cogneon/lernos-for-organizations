@@ -1,0 +1,32 @@
+site_name: lernOS für Organisationen
+site_url: https://cogneon.github.io/
+
+docs_dir: src
+
+site_dir: ../docs/de
+
+nav:
+    - Über lernOS: index.md
+    - Grundlagen: 1-Grundlagen.md
+    - Lernpfad: 2-Lernpfad.md
+    - Anhang: 3-Anhang.md
+
+theme:
+    name: 'material'
+    palette:
+        primary: 'deep orange'
+        accent: 'deep orange'
+    language: de
+
+repo_name: 'cogneon/lernos-for-organizations'
+repo_url: 'https://github.com/cogneon/lernos-for-organizations'
+
+extra:
+    social:
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/lern_os
+        - icon: fontawesome/brands/linkedin
+          link: https://www.linkedin.com/showcase/lern-os
+        - icon: fontawesome/brands/github
+          link: https://github.com/cogneon
+    disqus: lernos
