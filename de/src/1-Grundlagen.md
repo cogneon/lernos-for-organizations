@@ -1,9 +1,13 @@
 # Grundlagen
 
 
-## Ein zeitgemäßes Verständnis von Organisationen
+## Ein modernes Verständnis von Organisationen
 
 [Organisationen](https://de.wikipedia.org/wiki/Organisation) als Teil der Gesellschaft gibt es in vielfältigen Formen und Größen, z.B. Unternehmen, Schulen, Vereine und Parteien. Du weißt intuitiv, wann du es mit einer Organisation zu tun hast. Den Begriff "Organisation" zu definieren, ist aber nicht ganz so leicht. Daher wird oft versucht, Organisationen über ihren Zweck, Hierarchien (Aufbauorganisation), Prozesse (Ablauforganisation), Regeln (formale vs. informale Organisation), Werte (Organisationskultur) und Expertise (Wissensorganisation) zu beschreiben.
+
+Durch Weber, Fayol, Tayler eine (Maschinen-)Sicht auf Organisation, modern sind mehr Sichten nötig.
+
+### Zweck, Mitgliedschaft und Hierarchie
 
 Für die Entwicklung [Lernender Organisationen](https://de.wikipedia.org/wiki/Lernende_Organisation) ist ein Grundverständnis der [Organisationstheorie](https://de.wikipedia.org/wiki/Organisationstheorie) und der [Systemtheorie](https://de.wikipedia.org/wiki/Systemtheorie) (insbesondere [komplexe adaptive System](https://de.wikipedia.org/wiki/Komplexes_adaptives_System) und [soziotechnische Systeme](https://de.wikipedia.org/wiki/Soziotechnisches_System)) notwendig. Für den Leitfaden lernOS für Organisationen verwenden wir den Organisationsbegriff von Niklas Luhmann (s.a. Kühl, S.: [Organisationen - eine sehr kurze Einführung](https://amzn.to/3jCIVtW)), nach dem eine Organisation durch drei Merkmale gekennzeichnet ist (sog. zweckrationales Modell):
 
@@ -13,32 +17,81 @@ Für die Entwicklung [Lernender Organisationen](https://de.wikipedia.org/wiki/Le
 
 Kühl unterscheidet mit "Maschine", "Spiel" und "Fassade" drei Seiten der Organisation. Die Fassade beschreibt die Schauseite der Organisation in Richtung ihrer Umwelt. Der Begriff Maschine beschreibt das berechenbare Verhalten einer Organisation eine Leistung zu erbringen. Mit Spiel ist die Lebendigkeit der Organisation auch abseits des offiziellen Regelwerks gemeint (informale Organisation).
 
+### Rote und blaue Seite der Organisation
+
 Im Buch [Denkwerkzeuge der Höchstleister](https://amzn.to/3hyy6aI) beschreiben Gerhard Wohland und Matthias Wiemeyer die zwei inneren Seiten der Organisation (formal/informal) mit den Begriffen "Vorderbühne" (blau) und "Hinterbühne" (rot). Die rote Seite ist dabei z.B. durch Regeln, Methoden, Prozesse und Steuerung gekennzeichnet, die rote Seite hingegen durch Prinzipien, Werkzeuge, Projekte und Führung.
 
-## Zwei Treiber für Veränderungen von Organisationen
+### 2 Betriebssysteme, 1 Organisation
+
+...
+
+### Organisationskultur und informelle Organisation
+
+... Edgar Schein's [Kulturebenen-Modell](https://de.wikipedia.org/wiki/Kulturebenen-Modell) (Schein, E.: https://amzn.to/2CLH99l) ...
+
+* Artefakte
+* Werte
+* Haltung (-> Mindset)
+
+## Wandel von Organisationen
 
 Warum müssen wir uns überhaupt mit der Veränderung von Organisationen beschäftigen? Können wir nicht einfach das "richtige" Organisationsmodell finden und Organisationen dann immer (oder zumindest für lange Zeit) so belassen? Es gibt zwei wesentliche Treiber für die Veränderungen von Organisationen:
 
 1. **Änderungen in der Umwelt (reaktiv):** Entwicklungen wie die Globalisierung, die Digitalisierung und der technologische Fortschritt führen dazu, dass sich Organisationen an geänderte Rahmenbedingungen anpassen müssen.
 2. **Motivation der Organisation (proaktiv):** im Rahmen ihrer Entwicklung verfolgen Organisationen neue Ziele oder sehen sich mit Problemen konfrontiert, die einen Wunsch zur Veränderung aufkommen lassen.
 
-Starte immer mit dem Warum (s.a. Sinek, S.: [Start With Why](https://amzn.to/2WRLEWK), Video [Wie große Führungspersönlichkeiten zum Handeln inspirieren](https://www.youtube.com/watch?v=qp0HIF3SfI4)): damit du beim Start einer Initiative zur Entwicklung der Organisation ein klares Ziel vor Augen hast und keinen kurzfristigen Moden hinterherläufst ist es wichtig, sich den Grund genau zu überlegen. Gibt es einen guten Grund die Organisation zu verändern? Kommt der Grund eher von außen, aus [Megatrends](https://de.wikipedia.org/wiki/Trend_(Soziologie)#Megatrend), [Kondratjew-Zyklen](https://de.wikipedia.org/wiki/Kondratjew-Zyklus) oder [gesellschaftlichem Wandel](https://de.wikipedia.org/wiki/Sozialer_Wandel)? Oder gibt es einen intern Grund, sich wirklich (wirklich) verändern zu wollen?
+**ProTip:** Starte immer mit dem Warum (s.a. Sinek, S.: [Start With Why](https://amzn.to/2WRLEWK), Video [Wie große Führungspersönlichkeiten zum Handeln inspirieren](https://www.youtube.com/watch?v=qp0HIF3SfI4)): damit du beim Start einer Initiative zur Entwicklung der Organisation ein klares Ziel vor Augen hast und keinen kurzfristigen Moden hinterherläufst ist es wichtig, sich den Grund genau zu überlegen. Gibt es einen guten Grund die Organisation zu verändern? Kommt der Grund eher von außen (z.B. [Megatrends](https://de.wikipedia.org/wiki/Trend_(Soziologie)#Megatrend), [Kondratjew-Zyklen](https://de.wikipedia.org/wiki/Kondratjew-Zyklus) oder [gesellschaftlichem Wandel](https://de.wikipedia.org/wiki/Sozialer_Wandel))? Oder gibt es einen intern Grund, sich verändern zu wollen (z.B. Digitale Transformation, Agile Transformation)?
 
-Die Veränderung der Organisation ist immer mit Lernen auf individueller und/oder organisationaler Ebene verbunden.
+### Veränderung Bottom-up oder Top-down?
+
+... (Kotter, J.: [8 Steps to Accelerate Change](https://www.kotterinc.com/research-and-perspectives/8-steps-accelerating-change-ebook/)) ...
+
+... Graswurzelbewegung, soziale Bewegung ...
+
+**8 Beschleuniger der Veränderung:**
+
+... (Kotter, J.: [Accelerate!](https://hbr.org/2012/11/accelerate)) ...
+
+1. Ein Gefühls der Dringlichkeit rund um eine große Chance erzeugen.
+2. Eine Führungskoalition auf- und ausbauen.
+3. Eine strategische Vision formulieren und Initiativen zur Veränderung starten, um die große Chance zu nutzen.
+4. Vision und Strategie kommunizieren, um Engagement zu erzeugen und eine "Armee von Freiwilligen" anzuziehen.
+5. Beschleunigen Sie die Eine Bewegung in Richtig Vision und Chance entwickeln und sicherstellen, dass das Netzwerk Barrieren beseitigt.
+6. Die sichtbaren, bedeutenden und kurzfristigen Siege feiern.
+7. Niemals nachlassen. Weiterhin aus Erfahrungen lernen. Den Sieg nicht zu früh erklären.
+8. Strategische Veränderungen in der Kultur verankern.
+
+### Middle-Up-Down Management
+
+... (Nonaka, I.: [Toward Middle-Up-Down Management](https://sloanreview.mit.edu/article/toward-middleupdown-management-accelerating-information-creation/)) ...
+
+### Gleicher's Formel für Veränderung
+
+... (Wikipedia-Artikel (en) [Formula for Change](https://en.wikipedia.org/wiki/Formula_for_change#cite_note-3))
+
+C = D x V x F > R
+
+### Lead by example - Mit gutem Beispiel vorangehen
 
 ## Die Lernende Organisation und ihre Feinde
 
-Die Idee der Lernenden Organisation geht zurück in die 1990er Jahre und die Gründung des MIT Center for Organizational Learning mit [Peter Senge](https://de.wikipedia.org/wiki/Peter_M._Senge) als als Direktor sowie [Edgar Schein](https://de.wikipedia.org/wiki/Edgar_Schein) und [Chris Argyris](https://de.wikipedia.org/wiki/Chris_Argyris) als Schlüsselpersonen. Ähnlich wie das Konzept des [Wissensmanagements](https://de.wikipedia.org/wiki/Wissensmanagement) betont das organisationale Lernen die Bedeutung von Lernen und Wissen für den Erfolg von Organisationen.
+Die Veränderung der Organisation ist immer mit Lernen auf individueller und/oder organisationaler Ebene verbunden. Die Idee der Lernenden Organisation geht zurück in die 1990er Jahre und die Gründung des MIT Center for Organizational Learning mit [Peter Senge](https://de.wikipedia.org/wiki/Peter_M._Senge) als als Direktor sowie [Edgar Schein](https://de.wikipedia.org/wiki/Edgar_Schein) und [Chris Argyris](https://de.wikipedia.org/wiki/Chris_Argyris) als Schlüsselpersonen. Ähnlich wie das Konzept des [Wissensmanagements](https://de.wikipedia.org/wiki/Wissensmanagement) betont das organisationale Lernen die Bedeutung von Lernen und Wissen für den Erfolg von Organisationen.
 
 Eine Lernende Organisation unterscheidet sich von einer Nicht-Lernenden Organisation durch eine Reihe von Merkmalen:
 
 > Eine lernende Organisation ist eine Organisation, die in der Lage ist, Wissen zu schaffen, zu erwerben, zu interpretieren, zu übertragen und zu bewahren und ihr Verhalten gezielt zu ändern, um neues Wissen und neue Einsichten zu reflektieren. 
+
+### 3 Bausteine der Lernenden Organisation
 
 Um eine derartige Organisation zu entwickeln sind nach David Garvin drei Bausteine notwendig (Garvin, D.: [Learning Action - A Guide To Putting The Learning Organization To Work](https://amzn.to/2BqOvyk)):
 
 1. Führung, die das Lernen stärkt
 2. Konkrete Lernprozesse
 3. Eine unterstützende Lernumgebung
+
+... PDCA ...
+
+### 5 Disziplinen in der Lernenden Organisation
 
 Nach Peter Senge muss die Organisation fünf Disziplinen meistern, um ihre Fähigkeiten ständig weiterzuentwickeln, um ihre höchsten Ziele zu verwirklichen und wahrhaftige Lernfähigkeit zu entwickeln (Senge, P.: [Die fünfte Disziplin - Kunst und Praxis der lernenden Organisation](https://amzn.to/2D54BOw)):
 
@@ -52,30 +105,21 @@ Nach Peter Senge muss die Organisation fünf Disziplinen meistern, um ihre Fähi
 
 Zu der ... Lernkultur - Lernprozesse - Lernumgebung ...
 
+### Lernen in 2 Schleifen
 
+... [Organisationales Lernen](https://de.wikipedia.org/wiki/Organisationales_Lernen) ...
 
-## Eine Lernende Organisation entwickeln
+### Wissensmanagement-System (ISO 30401)
 
-Lernende Organisation als "Nordstern"
+... ([ISO 30401:2018 Knowledge management systems — Requirements](https://www.iso.org/standard/68683.html)) ...
 
-... Lern-Koalition ...
+... Knowledge Mangement Chef's Canvas ([KM Cookbook](https://www.iso30401.com/)) [Folien](https://www.mykmroundtable.org/uploads/3/8/2/6/38261647/stories_and_strategies_for_organisations_exploring_knowledge_management_standard_iso_30401vkul.pdf) ...
 
-... Lernende Organisation als Shared Vision ...
+![](./images/km-chefs-canvas.jpg)
 
-... Accelerate ...
+### Toolbox für Lernende Organisationen
 
-... Army of Volunteers ...
-
-... [Gleichers Formula for Change](https://en.wikipedia.org/wiki/Formula_for_change) ...
-
-Im **lernOS Plan** werden die Maßnahmen entlang der Handlungsfelder ausgeplant. Der Planungszeitraum kann in der Praxis sehr unterschiedlich sein. Es empfiehlt sich in Anlehnung an das agile Projektmanagement „auf Sicht" zu planen und längere Zeiträume durch kürzere Etappen (sog. Sprints) mit Zwischen-Reviews zu unterteilen.
-
-Wird beispielsweise über einen Zeitraum von drei oder sechs Monaten geplant, kann dieser in 4-wöchigen Sprints mit Sprint-Reviews geteilt und mit einem Review nach Abschluss des Zeitraums versehen werden.
-
-Der Einsatz eines neuen lernOS Tools benötigt in der Praxis meist etwas Übung und Begleitung. Diesen Zweck erfüllen die **lernOS Sprints**, bei denen der Einsatz eines Tools geplant, umgesetzt und in mehreren
-Iterationen (z.B. 3 x 1 Monat) auf die eigenen Bedürfnisse angepasst wird.
-
-In regelmäßigen Abständen (z.B. einmal pro Quartal) wird das gesamte Organisationssystem im **lernOS Review** auf den Prüfstand gestellt. Für Scope, Strategie, Plan und ausgewählten Tools wird entschieden, ob diese wie bisher weitergeführt werden sollen oder verbessert/angepasst werden müssen. Für das lernOS Review sollte ausreichend Zeit zur Verfügung stehen (z.B. 1 Tag/Halbjahr). Es empfiehlt sich, das Review außerhalb der gewohnten Umgebung durchzuführen, um Störungen zu vermeiden und Kreativität zu fördern.
+... lernOS Toolbox + X ...
 
 Im Folgenden wird die **lernOS Toolbox** im Detail vorgestellt. Zu jedem Tool gibt es unter lernos.org eine zugehörige Webseite mit weiterführenden Informationen.
 
@@ -88,17 +132,56 @@ Im Folgenden wird die **lernOS Toolbox** im Detail vorgestellt. Zu jedem Tool gi
 7.  **Expert Debriefing:** Das Expert Debriefing ist eine Methode zum Wissenstransfer von Experten auf ein oder mehrere Nachfolger (z.B. bei Ruhestand, Abteilungswechsel, Kündigung, Sabattical, Elternzeit, Job Rotation).
 8.  **Fedex Day:** Der FedEx Day ist ein Veranstaltungsformat, bei dem die Teilnehmer gemeinsam an einem Tag ein auslieferungsfähiges Produkt erzeugen.
 9.  **Future Backwards:** Das Future Backwards ist eine Strategiemethode zur Reflektion der Vergangenheit, zur Formulierung einer Vision für die Zukunft und zur Definition einer Strategie für die Umsetzung.
-10. **Getting Things Done:** Getting Things Done (GTD) ist eine Selbstmanagement-Methode für Wissensarbeiter.
-11. **Hackathon:** Ein Hackaton (Kombination aus „Hacken" und „Marathon") ist eine Veranstaltung, in deren Verlauf kollaborativ an bestehender Software oder anderen Ergebnissen gearbeitet wird.
-12. **Lessons Learned:** Lessons Learned ist ein Prozess, in dem Erfahrungen aus der Praxis inkl. Schlussfolgerungen kommuniziert oder dokumentiert werden.
-13. **Massive Open Online Course:** Ein Massive Open Online Course (MOOC) ist ein Kurs, der frei zugänglich ist (open), online stattfindet und eine große Menge von Teilnehmern (massive) hat.
-14. **Podcast:** Ein Podcast besteht aus einer Sammlung von Audio-Dateien, die auf einer Webseite zum automatischen Download zur Verfügung gestellt wird.
-15. **Screencast:** Ein Screencast ist ein Video, das die Interaktion auf einem Computerbildschirm wahlweise mit oder ohne Ton darstellt.
-16. **Scrum:** Scrum ist eine Methode des Projektmanagements, um Projekte agil und partizipativ zu führen.
-17. **Weblog:** Ein Weblog (auch Blog) ist eine persönliche Webseite im Tagebuch-Format, d.h. die einzelnen Weblog-Einträge werden chronologisch rückwärts angezeigt.
-18. **Wiki:** Ein Wiki (Hawaiisch für „schnell") ist eine Sammlung von Webseiten, die von den Nutzern gelesen und bearbeitet werden können.
-19. **Wissenslandkarte:** Eine Wissenslandkarte ist eine graphische Darstellung von Wissensgebieten und deren Zusammenhängen.
-20. **Working Out Loud:** Working Out Loud (WOL) ist eine Methode zum strategischen Netzwerken und offenen Teilen von Inhalten.
+10.  **Getting Things Done:** Getting Things Done (GTD) ist eine Selbstmanagement-Methode für Wissensarbeiter.
+11.  **Hackathon:** Ein Hackaton (Kombination aus „Hacken" und „Marathon") ist eine Veranstaltung, in deren Verlauf kollaborativ an bestehender Software oder anderen Ergebnissen gearbeitet wird.
+12.  **Lessons Learned:** Lessons Learned ist ein Prozess, in dem Erfahrungen aus der Praxis inkl. Schlussfolgerungen kommuniziert oder dokumentiert werden.
+13.  **Massive Open Online Course:** Ein Massive Open Online Course (MOOC) ist ein Kurs, der frei zugänglich ist (open), online stattfindet und eine große Menge von Teilnehmern (massive) hat.
+14.  **Podcast:** Ein Podcast besteht aus einer Sammlung von Audio-Dateien, die auf einer Webseite zum automatischen Download zur Verfügung gestellt wird.
+15.  **Screencast:** Ein Screencast ist ein Video, das die Interaktion auf einem Computerbildschirm wahlweise mit oder ohne Ton darstellt.
+16.  **Scrum:** Scrum ist eine Methode des Projektmanagements, um Projekte agil und partizipativ zu führen.
+17.  **Weblog:** Ein Weblog (auch Blog) ist eine persönliche Webseite im Tagebuch-Format, d.h. die einzelnen Weblog-Einträge werden chronologisch rückwärts angezeigt.
+18.  **Wiki:** Ein Wiki (Hawaiisch für „schnell") ist eine Sammlung von Webseiten, die von den Nutzern gelesen und bearbeitet werden können.
+19.  **Wissenslandkarte:** Eine Wissenslandkarte ist eine graphische Darstellung von Wissensgebieten und deren Zusammenhängen.
+20.  **Working Out Loud:** Working Out Loud (WOL) ist eine Methode zum strategischen Netzwerken und offenen Teilen von Inhalten.
+
+## Eine Lernende Organisation entwickeln
+
+### Koalition des Lernens
+
+...
+
+### Lernende Organisation als Nordstern
+
+...
+
+### Die Armee der Freiwilligen
+
+... Army of Volunteers ...
+
+### Open Space Learning
+
+... Sponsor, Theme (one big opportunity), Coaching Role (lernOS Coach), Proceedings
+
+Experimentieren - Wissen
+
+Iteration - Lernen
+
+Kontinuierliche Verbesserung - Effektivität und Effizienz
+
+### Lernen in Iterationen mit OKR
+
+... jeder in der Koalition des Lernens sollte den lernOS for You Guide durchgemacht haben ...
+
+----
+
+Im **lernOS Plan** werden die Maßnahmen entlang der Handlungsfelder ausgeplant. Der Planungszeitraum kann in der Praxis sehr unterschiedlich sein. Es empfiehlt sich in Anlehnung an das agile Projektmanagement „auf Sicht" zu planen und längere Zeiträume durch kürzere Etappen (sog. Sprints) mit Zwischen-Reviews zu unterteilen.
+
+Wird beispielsweise über einen Zeitraum von drei oder sechs Monaten geplant, kann dieser in 4-wöchigen Sprints mit Sprint-Reviews geteilt und mit einem Review nach Abschluss des Zeitraums versehen werden.
+
+Der Einsatz eines neuen lernOS Tools benötigt in der Praxis meist etwas Übung und Begleitung. Diesen Zweck erfüllen die **lernOS Sprints**, bei denen der Einsatz eines Tools geplant, umgesetzt und in mehreren
+Iterationen (z.B. 3 x 1 Monat) auf die eigenen Bedürfnisse angepasst wird.
+
+In regelmäßigen Abständen (z.B. einmal pro Quartal) wird das gesamte Organisationssystem im **lernOS Review** auf den Prüfstand gestellt. Für Scope, Strategie, Plan und ausgewählten Tools wird entschieden, ob diese wie bisher weitergeführt werden sollen oder verbessert/angepasst werden müssen. Für das lernOS Review sollte ausreichend Zeit zur Verfügung stehen (z.B. 1 Tag/Halbjahr). Es empfiehlt sich, das Review außerhalb der gewohnten Umgebung durchzuführen, um Störungen zu vermeiden und Kreativität zu fördern.
 
 ## Link- und Literaturliste
 
