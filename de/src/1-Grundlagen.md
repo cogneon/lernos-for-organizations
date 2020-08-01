@@ -75,35 +75,37 @@ Die drei Ebenen können aufgrund der Merkmale Sichtbarkeit und einfacher Möglic
 
 ## Wandel von Organisationen
 
-Warum müssen wir uns überhaupt mit der Veränderung von Organisationen beschäftigen? Können wir nicht einfach das "richtige" Organisationsmodell finden und Organisationen dann immer (oder zumindest für lange Zeit) so belassen? Es gibt zwei wesentliche Treiber für die Veränderungen von Organisationen:
+Organisationen leben nicht unendlich. Die durchschnittliche Lebenserwartung eines US-amerikanischen Unternehmens beispielsweise liegt aktuell bei rund 10 Jahren (s.a. Studie [The Mortality of Companies](https://royalsocietypublishing.org/doi/10.1098/rsif.2015.0120)). In ihrer Lebenszeit durchläuft eine Organisation mehrere Veränderungsprozesse, die im Wesentlichen zwei Ausgangspunkte haben kann:
 
-1. **Änderungen in der Umwelt (reaktiv):** Entwicklungen wie die Globalisierung, die Digitalisierung und der technologische Fortschritt führen dazu, dass sich Organisationen an geänderte Rahmenbedingungen anpassen müssen.
-2. **Motivation der Organisation (proaktiv):** im Rahmen ihrer Entwicklung verfolgen Organisationen neue Ziele oder sehen sich mit Problemen konfrontiert, die einen Wunsch zur Veränderung aufkommen lassen.
+1. **Änderungen in der Umwelt (reaktiv):** Entwicklungen wie die Globalisierung, die Digitalisierung und der technologische Fortschritt führen dazu, dass sich Organisationen an geänderte Rahmenbedingungen anpassen müssen, um effektiv zu sein oder im Wettbewerb bestehen zu können.
+2. **Motivation der Organisation (proaktiv):** im Rahmen ihrer Entwicklung verfolgen Organisationen neue Ziele oder sehen sich mit Problemen konfrontiert, die einen Wunsch zur Veränderung aufkommen lassen (z.B. digitale Transformation, agile Transformation).
 
 **ProTip:** Starte immer mit dem Warum (s.a. Sinek, S.: [Start With Why](https://amzn.to/2WRLEWK), Video [Wie große Führungspersönlichkeiten zum Handeln inspirieren](https://www.youtube.com/watch?v=qp0HIF3SfI4)): damit du beim Start einer Initiative zur Entwicklung der Organisation ein klares Ziel vor Augen hast und keinen kurzfristigen Moden hinterherläufst ist es wichtig, sich den Grund genau zu überlegen. Gibt es einen guten Grund die Organisation zu verändern? Kommt der Grund eher von außen (z.B. [Megatrends](https://de.wikipedia.org/wiki/Trend_(Soziologie)#Megatrend), [Kondratjew-Zyklen](https://de.wikipedia.org/wiki/Kondratjew-Zyklus) oder [gesellschaftlichem Wandel](https://de.wikipedia.org/wiki/Sozialer_Wandel))? Oder gibt es einen intern Grund, sich verändern zu wollen (z.B. Digitale Transformation, Agile Transformation)?
 
 ### Veränderung Top-down oder Bottom-up?
 
-... (Kotter, J.: [8 Steps to Accelerate Change](https://www.kotterinc.com/research-and-perspectives/8-steps-accelerating-change-ebook/)) ...
+Beim der Organisation der Veränderung (Change Management) denken vielen intuitiv an den Anstoß der Veränderung aus der obersten Leitung, der Definition von Ist- und Soll-Zustand und dem Einsatz sog. Change Agents zur Begleitung der Veränderung. Die Veränderung ist i.d.R. innerhalb von Monaten oder Jahren abgeschlossen. Viele Veränderungsmaßnahmen, wie beispielsweise eine organisatorische Veränderung oder die Einführung von Software, lassen sich mit so einem Ansatz bewerkstelligen.
 
-... Graswurzelbewegung, soziale Bewegung ...
+Der wohl bekannteste Top-down Change-Management-Ansatz 8-Schritt-Prozess zur Führung von Veränderungsprozessen (Kotter, J.: [8 Steps to Accelerate Change](https://www.kotterinc.com/research-and-perspectives/8-steps-accelerating-change-ebook/)). Die acht Schritte bestehen aus:
 
-**8 Beschleuniger der Veränderung:**
+1. ... aus Buch Leading Change ...
 
-... (Kotter, J.: [Accelerate!](https://hbr.org/2012/11/accelerate)) ...
+Im Jahr ... hat John Kotter seinen Veränderungsprozess an die neuen Rahmenbedingungen des 21. Jahrhunderts mit einer erhöhten Veränderungsgeschwindigkeit angepasst (s.a. Kotter, J.: 8 Steps to Accelerate Change In Your Organization und [Accelerate!](https://hbr.org/2012/11/accelerate)). Gleich geblieben sind nach Kotter die zwei fundamentalen Ziele, die den meisten Veränderungen zugrunde liegen: Umsatz/Profit erhöhen bzw. Kosten reduzieren und effektiver bzw. effizienter werden (Anm.: daneben gibt es mittlerweile auch viele Veränderungsinitiativen zu Mitarbeiterzufriedenheit, Nachhaltigkeit, Diversität etc.). Seit 2014 gibt es eine Aktualisierung des 8-Schritt-Prozess, der auf einer dauerhaft bestehenden sog. Guiding Coalition aufbaut, die von einer "Army of Volunteers" in der Breite unterstützt wird:
 
-1. Ein Gefühls der Dringlichkeit rund um eine große Chance erzeugen.
-2. Eine Führungskoalition auf- und ausbauen.
-3. Eine strategische Vision formulieren und Initiativen zur Veränderung starten, um die große Chance zu nutzen.
-4. Vision und Strategie kommunizieren, um Engagement zu erzeugen und eine "Armee von Freiwilligen" anzuziehen.
-5. Beschleunigen Sie die Eine Bewegung in Richtig Vision und Chance entwickeln und sicherstellen, dass das Netzwerk Barrieren beseitigt.
-6. Die sichtbaren, bedeutenden und kurzfristigen Siege feiern.
-7. Niemals nachlassen. Weiterhin aus Erfahrungen lernen. Den Sieg nicht zu früh erklären.
-8. Strategische Veränderungen in der Kultur verankern.
+1. Ein Gefühls der Dringlichkeit erzeugen
+2. Eine Führungskoalition (Guiding Coalition) aufbauen
+3. Eine strategische Vision formulieren
+4. Eine "Armee von Freiwilligen" anwerben
+5. Aktivität ermöglichen und Barrieren abbauen
+6. Kurzfristige Erfolge erzielen
+7. Die Beschleunigung aufrecht erhalten
+8. Die Veränderungen institutionalisieren
 
-Dancing guy, soziale Bewegung (Buch Kluges)
+### Veränderung Bottom-up
 
-### Middle-Up-Down Management
+Neben der Veränderung vom oberen Ende der Hierarchie kann der Impuls zur Veränderung auch von unten kommen. In der Gesellschaft spricht man dabei von sozialen Bewegungen (z.B. Occupy Wallstreet, Fridays for Future), in Organisationen wird oft der Begriff der Graswurzelbewegung verwendet (z.B. [#gernperDu](http://www.gernperdu.de), [Working Out Loud](https://workingoutloud.com/de/fur-dich)). Gemein ist diesen Bewegungen, dass sie aus einer Gruppe von Personen besteht, die mit verschiedenen Mobilisierungs- und Handlungsstrategien versucht, gesellschaftlichen oder organisatorischen Wandel zu beschleunigen, zu verhindern oder umzukehren. Eine Übersicht aktueller Graswurzelbewegungen in Organisationen sind im Buch [Graswurzelinitiativen in Unternehmen: Ohne Auftrag – mit Erfolg!](https://amzn.to/39SjqQX) von Sabine und Alexander Kluge zusammengefasst (s.a. Podcast [Kluges aus der Mitte](https://klugesausdermitte.podigee.io)).
+
+### Veränderung Middle-Up-Down
 
 ... (Nonaka, I.: [Toward Middle-Up-Down Management](https://sloanreview.mit.edu/article/toward-middleupdown-management-accelerating-information-creation/)) ...
 
@@ -115,7 +117,7 @@ C = D x V x F > R
 
 ### Lead by example - Mit gutem Beispiel vorangehen
 
-...
+... Dancing guy, 
 
 ## Die Lernende Organisation und ihre Feinde
 
