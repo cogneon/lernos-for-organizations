@@ -82,7 +82,15 @@ Organisationen leben nicht unendlich. Die durchschnittliche Lebenserwartung eine
 
 **ProTip:** Starte immer mit dem Warum (s.a. Sinek, S.: [Start With Why](https://amzn.to/2WRLEWK), Video [Wie große Führungspersönlichkeiten zum Handeln inspirieren](https://www.youtube.com/watch?v=qp0HIF3SfI4)): damit du beim Start einer Initiative zur Entwicklung der Organisation ein klares Ziel vor Augen hast und keinen kurzfristigen Moden hinterherläufst ist es wichtig, sich den Grund genau zu überlegen. Gibt es einen guten Grund die Organisation zu verändern? Kommt der Grund eher von außen (z.B. [Megatrends](https://de.wikipedia.org/wiki/Trend_(Soziologie)#Megatrend), [Kondratjew-Zyklen](https://de.wikipedia.org/wiki/Kondratjew-Zyklus) oder [gesellschaftlichem Wandel](https://de.wikipedia.org/wiki/Sozialer_Wandel))? Oder gibt es einen intern Grund, sich verändern zu wollen (z.B. Digitale Transformation, Agile Transformation)?
 
-### Veränderung Top-down oder Bottom-up?
+### Gleicher's Formel für Veränderung
+
+David Gleicher hat sich in den 1960er Jahren mit der Frage beschäftigt, wann in Organisationen überhaupt Veränderung geschieht bzw. wie groß die Erfolgsaussichten von Veränderungsinitiativen sind. Das Ergebnis hat er in der Formel für Veränderung (s.a. [Formula for Change](https://en.wikipedia.org/wiki/Formula_for_change#cite_note-3)) zusammengefasst:
+
+**C = D x V x F > R**
+
+Veränderung (Change) geschieht dann, wenn das Produkt aus der Unzufriedenheit mit der aktuellen Situation (Dissatisfaction), der Vision einer positiven Zukunft (Vision) und konkrete erste Schritte in Richtung Vision (First Steps) größer ist, als der Widerstand gegen die Veränderung (Resistance). Da der Kern der Gleichung ein Produkt ist, führt jeder Faktor mit Wert 0 (z.B. Visionslosigkeit, völlige Zufriedenheit mit der Situation) zum Stillstand in der Organisation.
+
+### Veränderung Top-down
 
 Beim der Organisation der Veränderung (Change Management) denken vielen intuitiv an den Anstoß der Veränderung aus der obersten Leitung, der Definition von Ist- und Soll-Zustand und dem Einsatz sog. Change Agents zur Begleitung der Veränderung. Die Veränderung ist i.d.R. innerhalb von Monaten oder Jahren abgeschlossen. Viele Veränderungsmaßnahmen, wie beispielsweise eine organisatorische Veränderung oder die Einführung von Software, lassen sich mit so einem Ansatz bewerkstelligen.
 
@@ -107,51 +115,63 @@ Neben der Veränderung vom oberen Ende der Hierarchie kann der Impuls zur Verän
 
 ### Veränderung Middle-Up-Down
 
-... (Nonaka, I.: [Toward Middle-Up-Down Management](https://sloanreview.mit.edu/article/toward-middleupdown-management-accelerating-information-creation/)) ...
+Die Notwendigkeit, sich als Organisation immer schneller zu verändern, erfordert neue Ansätze. Top-Down-Ansätze erzeugen oft nicht die notwendige Veränderungsbereitschaft in der Breite, Bottom-Up-Ansätze stoßen an die sprichwörtliche "gläserne Decke" oder ihnen geht die Luft aus.
 
-### Gleicher's Formel für Veränderung
+In ihrem Buch The Knowledge-Creating Company haben Ikujiro Nonaka und Hirotaka Takeuchi beschrieben, welcher Change-Ansatz notwendig ist, um schnelle Informationsverteilung und Wissensgenerierung in einer Organisation zu ermöglichen. Sie haben diesen Ansatz im Middle-Up-Down Management genannt (Nonaka, I.: [Toward Middle-Up-Down Management](https://sloanreview.mit.edu/article/toward-middleupdown-management-accelerating-information-creation/)).
 
-... (Wikipedia-Artikel (en) [Formula for Change](https://en.wikipedia.org/wiki/Formula_for_change#cite_note-3))
+Anders als die oft zitierte "Lähmschicht mittleres Management" sehen sie gerade Fach- und Führungskräften auf den mittleren Ebenen als entscheidende Akteure im Veränderungsprozess. Sie können die Brücke zwischen den visionären Idealen der obersten Leitung und den oft chaotischen Realitäten der Mitarbeitenden an vorderster Front bilden. Es entsteht eine spiralartige Bewegung, in der die großen Vision immer wieder an den bestehenden Realitäten gespiegelt werden und iterativer Fortschritt entsteht.
 
-C = D x V x F > R
+![](images/middle-up-down-knowledge-creation.jpg)
 
 ### Lead by example - Mit gutem Beispiel vorangehen
 
-... Dancing guy, 
+Im Veränderungsmanagement gibt es den schönen Spruch "Leading by example is not only a change method but the only one". Gerade, wenn es bei dem Veränderungsvorhaben um Werte- oder Verhaltensänderung geht, müssen alle Treiber des Wandels mit gutem Beispiel voran gehen (Vorbilder, Role Models). Diesen Ansatz der Veränderung hat Mahatma Ghandi in diesem kurzen Zitat gut auf den Punkt gebracht:
+
+> Be the change you want to see in the world.
+
+Das Video [First Follower: Leadership Lessons from Dancing Guy](https://www.youtube.com/watch?v=fW8amMCVAJQ) zeigt das Gefühl, das man als erster Treiber einer Veränderung hat: man fühlt sich als "Lone Nut". Es kommt darauf an, die ersten Personen zu finden, die mitmachen (First Follower). Sind diese gefunden, ist der Kern für für eine Veränderungsbewegung geschaffen, die von alleine wachsen und skalieren kann. Das Gefühl, das sich einstellt hat Lugano Kihachi im [Video zum Continental GUIDE Kick-off](https://www.youtube.com/watch?v=Pm-np_XNqMc) mit "I'm not alone!" schön in Worte gekleidet.
 
 ## Die Lernende Organisation und ihre Feinde
 
 Die Veränderung der Organisation ist immer mit Lernen auf individueller und/oder organisationaler Ebene verbunden. Die Idee der Lernenden Organisation geht zurück in die 1990er Jahre und die Gründung des MIT Center for Organizational Learning mit [Peter Senge](https://de.wikipedia.org/wiki/Peter_M._Senge) als als Direktor sowie [Edgar Schein](https://de.wikipedia.org/wiki/Edgar_Schein) und [Chris Argyris](https://de.wikipedia.org/wiki/Chris_Argyris) als Schlüsselpersonen. Ähnlich wie das Konzept des [Wissensmanagements](https://de.wikipedia.org/wiki/Wissensmanagement) betont das organisationale Lernen die Bedeutung von Lernen und Wissen für den Erfolg von Organisationen.
 
-Eine Lernende Organisation unterscheidet sich von einer Nicht-Lernenden Organisation durch eine Reihe von Merkmalen:
+Eine Lernende Organisation unterscheidet sich von einer Nicht-Lernenden Organisation dadurch, dass sie Wissen und Lernen nutzt, um sich and die Veränderung in der Umwelt anzupassen (Survival of the Fittest):
 
-> Eine lernende Organisation ist eine Organisation, die in der Lage ist, Wissen zu schaffen, zu erwerben, zu interpretieren, zu übertragen und zu bewahren und ihr Verhalten gezielt zu ändern, um neues Wissen und neue Einsichten zu reflektieren. 
+> Eine **Lernende Organisation** ist eine Organisation, die in der Lage ist, Wissen zu schaffen, zu erwerben, zu interpretieren, zu übertragen und zu bewahren und ihr Verhalten gezielt zu ändern, um neues Wissen und neue Einsichten zu reflektieren (David Garvin).
 
-### Die 3 Bausteine der Lernenden Organisation
+Da Wissen nie final ist, geht es bei der Lernenden Organisation nicht um idealen Zustand mit finalem Wissen. Wie dieser Witz verdeutlicht, geht es vielmehr darum, die sprichwörtliche Nase vorne zu haben:
 
-Um eine derartige Organisation zu entwickeln sind nach David Garvin drei Bausteine notwendig (Garvin, D.: [Learning Action - A Guide To Putting The Learning Organization To Work](https://amzn.to/2BqOvyk)):
-
-1. Führung, die das Lernen stärkt
-2. Konkrete Lernprozesse
-3. Eine unterstützende Lernumgebung
-
-... PDCA ...
+> Zwei Männer sind zu Fuß in der Wüste unterwegs, als sie plötzlich einem Löwen gegenüberstehen. Der eine Mann reagiert panisch, der andere ist ganz ruhig, greift in seinen Rucksack, holt ein Paar Turnschuhe heraus und beginnt, diese anzuziehen. Sagt der andere Mann zu ihm: “Glaubst Du wirklich, dass Du mit den Turnschuhen schneller laufen kannst, als der Löwe?” Sagt der andere: “Nein, aber schneller, als Du.”.
 
 ### Die 5 Disziplinen der Lernenden Organisation
 
-Nach Peter Senge muss die Organisation fünf Disziplinen meistern, um ihre Fähigkeiten ständig weiterzuentwickeln, um ihre höchsten Ziele zu verwirklichen und wahrhaftige Lernfähigkeit zu entwickeln (Senge, P.: [Die fünfte Disziplin - Kunst und Praxis der lernenden Organisation](https://amzn.to/2D54BOw)):
+Wohl der bekannteste Ansatz für Lernende Organisationen sind die fünf Disziplinen von Peter Senge (s.a. [Peter Senge and the learning organization](https://infed.org/mobi/peter-senge-and-the-learning-organization/)) aus dem Buch [Die fünfte Disziplin: Kunst und Praxis der Lernenden Organisation](https://amzn.to/30kwStP). Seine Definition einer Lernenden Organisation:
 
-1. Systemdenken
-2. Personal Mastery - die Disziplin der Selbstführung und Persönlichkeitsentwicklung
-3. Mentale Modelle
-4. Eine gemeinsame Vision entwickeln
-5. Team-Lernen
+> Learning organizations are organizations where people continually expand their capacity to create the results they truly desire, where new and expansive patterns of thinking are nurtured, where collective aspiration is set free, and where people are continually learning to see the whole together.
 
+Nach Peter Senge unterscheidet sich eine Lernende Organisation von anderen im Beherrschen von fünf Grund-Disziplinen (Prinzipien und Praktiken):
 
+1. **Systemdenken** - in einer komplexen Welt helfen zu einfache Modelle und Frameworks nicht weiter, sie  beleuchten nur die Teile und nicht das Ganze. Der systemische Blickwinkel ist immer langfristig. Er beobachtet auch Verzögerungs- und Rückkopplungsschleifen, die bei kurzfristigen Betrachtungsweisen oft ignoriert werden. Die Erstellung einer "Landkarte des Systems" (system map) kann helfen, die Kernelemente des Systems und ihre Verbindungen wahrzunehmen.
+2. **Persönliche Meisterschaft** - ohne individuelles Lernen kann kein organisationales Lernen stattfinden. Personal mastery ist ein lebenslanger Lernmodus, bei dem man nie "ankommt", sondern sich kontinuierlich weiterentwickelt. Das Ziel ist die Reise des Lernens.
+3. **Mentale Modelle** - die verinnerlichten Annahmen und Verallgemeinerungen und Bilder, wie wir die Welt sehen und verstehen. Unsere mentalen Modelle beeinflussen unsere Handlungen und wie wir Wissen aufnehmen sehr stark.
+4. **Eine gemeinsame Vision entwickeln** - ein geteiltes Bild von der Zukunft, die man gemeinsam erschaffen möchte ist eine sehr starke Motivation für Experimente und Innovation. Menschen lernen und übertreffen sich, weil sie wollen, nicht weil sie müssen.
+5. **Lernen im Team** - das Lernen im Team startet mit dem Dialog und dem "gemeinsamen Denken". Dialog zusammen mit dem Systemdenken fördert eine Sprache, die dem Umgang mit steigender Komplexität angemessen ist.
 
-Zu der ... Lernkultur - Lernprozesse - Lernumgebung ...
+Senge weist zusätzlich darauf hin, dass eine Lernende Organisation einer neuen Sicht auf Führung bedarf:
 
-### Das Lernen Lernen in 2 Schleifen
+> In a learning organization, leaders are designers, stewards and teachers. They are responsible for building organizations were people continually expand their capabilities to understand complexity, clarify vision, and improve shared mental models – that is they are responsible for learning…. Learning organizations will remain a ‘good idea’… until people take a stand for building such organizations. Taking this stand is the first leadership act, the start of inspiring (literally ‘to breathe life into’) the vision of the learning organization.
+
+### Die 3 Bausteine der Lernenden Organisation
+
+Nach der Einschätzung David Garvin und Amy Edmondson (s.a. [Is Your's a Learning Organization?](https://hbr.org/2008/03/is-yours-a-learning-organization)) sind die fünf Disziplinen von Senge nicht konkret genug, um Handlung in Organisationen zu erzeugen ("They overemphasized the forest and paid little attention to the trees"). Aus der Forschung zu Organisation über zwei Jahrzehnte haben sie drei Bausteine (Building Blocks) für die Entwicklung einer Lernenden Organisation identifiziert:
+
+1. **Führung, die das Lernen stärkt** - das Lernen in einer Organisation wir sehr stark vom Verhalten der Führungskräfte beeinflusst. Wenn diese aktiv fragen, zuhören und dabei den Dialog anregen fühlen sich die Menschen ermutigt zu lernen. Wenn sie darüber hinaus signalisieren, dass ihnen die Investition von Zeit in Problemlösung, Wissenstransfer, Querdenken, neue Ideen und Reflexionsprozesse wichtig ist, werden diese Aktivitäten vermehrt stattfinden.
+2. **Konkrete Lernprozesse und -praktiken** - Lernprozesse schließen die Generierung, Sammlung, Interpretation und Verteilung von Informationen sowie das Experimentieren und Testen von neuem Wissen mit ein. Das Gelernte und das Wissen müssen systematisch und auf klar definierten Wegen mit Individuen, Teams oder der ganuen Organisation geteilt werden. Der Wissenstransfer kann sich intern an Organisationsmitglieder richten, aber auch nach extern gerichtet sein (Kunden, Experten, Öffentlichkeit). Reflexionen nach Aktivitäten, Prozessen und Projekten sind oft genanntes Beispiel einer konkreten Lernaktivität (z.B. After Action Review, PDCA-Zyklus)
+3. **Eine unterstützende Lernumgebung** - eine lernförderliche Umgebung kennzeichnet sich durch die vier Faktoren psychologische Sicherheit, Wertschätzung von Vielfalt, Offenheit gegenüber neuen Ideen und Zeit für Reflexion. Neben den weichen Faktoren der Lernumgebung gehört zu diesem Baustein auch die physische Lernumgebung (Gebäude, Räume, Lernorte etc.) sowie die virtuelle Lernumgebung (Persönliche Lernumgebung, Intranet, Soziales Netzwerk etc.)
+
+Die drei Bausteine sind dabei unabhängig voneinander. Es können je nach Bedarf in einem oder mehren Handlungsfelder Maßnahmen durchgeführt und Fortschritte gemessen werden.
+
+### Strategisches Lernen in 2 Schleifen
 
 ... [Organisationales Lernen](https://de.wikipedia.org/wiki/Organisationales_Lernen) ...
 
@@ -242,6 +262,8 @@ Im Folgenden wird die **lernOS Toolbox** im Detail vorgestellt. Zu jedem Tool gi
 **Links:**
 
 1. D. A. Garvin, A. C. Edmondson, und F. Gino, „Is Yours a Learning Organization?", *Harvard Business Review*, März 2008. 
+
+Garvin, D.: [Learning Action - A Guide To Putting The Learning Organization To Work](https://amzn.to/2BqOvyk))
 
 **Literatur:**
 
