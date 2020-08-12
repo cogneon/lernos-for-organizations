@@ -6,20 +6,6 @@ lernOS ist von vielen Personen und Quellen inspiriert und steht daher [auf den S
 
 * ...
 
-## Glossar
-
-Management = Führung und Gestaltung einer Organisation
-
-Wissensmanagement = Führung und Gestaltung einer Lernenden Organisation
-
-Lernende Organisation = ...
-
-Lernen = ...
-
-Organisation = ...
-
-Link auf lernOS Glossar
-
 ## Änderungshistorie
 
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
@@ -30,3 +16,4 @@ Link auf lernOS Glossar
 | 0.4 | Simon Dückert | Ergänzung des Kapitels „Erfolgsfaktoren" mit der ganzheitlichen Perspektive Mindset, Skillset, Toolset aus dem Cogneon Guide Netzwerk Konzept. | 03.11.2017 |
 | 0.5 | Simon Dückert | „Apps" durch „Toolbox" und „App" durch „Tool" ersetzt; wg. Feedback und KnowTouch Talk zu Framework -- Toolbox -- Tool () | 18.03.2018 |
 | 0.6 | Simon Dückert | Word-Version des lernOS für Organisationen Leitfaden in Markdown überführt. | 21.07.2019 |
+| 0.7 | Simon Dückert | ... | dd.dd.2020 |
