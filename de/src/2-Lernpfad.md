@@ -2,12 +2,10 @@
 
 Beim ersten Durchlauf der Koalition des Lernens durch den Lernpfad werden die Grundlagen für die nachhaltige Kultivierung einer Lernenden Organisation geschaffen. Die Koalition des Lernens hat sich formiert und wird in der Organisation mit ihren Zielen sichtbar. Das erste wichtige Thema für die Kultivierung der Lernenden Organisation ist identifiziert, beschrieben und als Motto des ersten Open Space des Lernens festgelegt. Das erste OSL hat stattgefunden, im Protokoll sind konkrete Lern-Aktivitäten und -Initiativen dokumentiert. Der nächste OSL ist terminiert.
 
-![lernOS Canvas für Organisationen](./images/lernOS-Canvas-for-Organizations-de.png)
-
 1. **Die eigene Organisation verstehen (Kata)**
    Analysiere mit dem lernOS Canvas für Organisationen die aktuelle Situation deiner Organisation und identifiziere mögliche Handlungsfelder.
 2. **Den Nordstern der Organisation finden (Kata)**
-   Nutze die Methode Future Backwards, um deine Vision deiner Organisation als Lernender Organisation zu ermitteln.
+   Nutze die Methode Future Backwards und Gleicher's Formel für Veränderung, um die Vision und den "Nordstern" deiner Organisation als Lernender Organisation zu ermitteln und erste konkrete Schritte zu planen.
 3. **Die Koalition des Lernens formieren (Kata)**
    Gründe gemeinsam mit mindestens zwei Mitsteiter*innen die Koalition des Lernens und mache diese in der Organisation sichtbar.
 4. **Das Motto für den Open Space des Lernens festlegen (Boxenstopp 1) (Kata)**

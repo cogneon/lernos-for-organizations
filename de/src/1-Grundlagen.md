@@ -25,7 +25,7 @@ Das Problem erklärt [John Kotter](https://www.linkedin.com/in/johnkotter/) sehr
 
 Die notwendige Organisationsstruktur nennt Kotter duales Betriebssystem (Dual Operating System). Das duale Betriebssystem besteht aus Hierarchie auf der einen und Netzwerk auf der anderen Seite. Das Netzwerk besteht aus einer sog. Führungskoalition (Guiding Coalition) als Sonne im Zentrum und strategischen Initiativen (Planeten) und Subinitiativen (Monde) außen herum. Die Netzwerk-Struktur ist dynamischer, als die Hierarchie. Initiativen können jederzeit gestartet, gestoppt, kombiniert oder geteilt werden.
 
-![Dual Operating System nach John Kotter, Quelle: [Harvard Business Review](https://hbr.org/resources/images/article_assets/hbr/1211/R1211B_A_LG.gif)](images/dual-operating-system.gif)
+![Dual Operating System nach John Kotter, eigene Darstellung)](images/kotter-dual-operating-system.png)
 
 Der Führungskoalition als Kern der Netzwerkstruktur kommt im dualen Betriebssystem eine besondere Bedeutung zu. Sie besteht aus Mitarbeitenden aus allen Bereichen der Organisation, die ein starkes Dringlichkeitsgefühl für die Veränderung der Organisation haben und eine Führungsrolle (nicht notwendigerweise hierarchische Führung) im Wandel übernehmen wollen. Das Kernteam besitzt die notwendige Motivation, das Engagement, das Netzwerk, die Fähigkeiten und die Informationen, um seiner Rolle als Kern der Netzwerkstruktur gerecht zu werden.
 
@@ -53,9 +53,9 @@ Mit dem Übergang von [Industriegesellschaft](https://de.wikipedia.org/wiki/Indu
 
 > The most important, and indeed the truly unique, contribution of  management in the 20th century was the fifty-fold increase in the  productivity of the MANUAL WORKER in manufacturing. The most important  contribution management needs to make in the 21st century is similarly  to increase the productivity of KNOWLEDGE WORK and the KNOWLEDGE WORKER.
 
-Um dieser notwendigen "Re-Humanisierung" der Organisations- und Arbeitswelt gerecht zu werden sollte in der Sprache eher das Gehirn oder ein Organismus denn die Maschine oder der Roboter als Metapher verwendet werden. 
+Um dieser notwendigen "Re-Humanisierung" der Organisations- und Arbeitswelt gerecht zu werden sollte in der Sprache eher das Gehirn oder ein Organismus denn die Maschine oder der Roboter als Metapher verwendet werden:
 
-![](images/brain.png)
+![](images/organisation-als-organismus.png)
 
 ### Organisationskultur
 
@@ -71,7 +71,7 @@ Schein weist aber auch darauf hin, das die drei Ebenen "Manifestationen von Kult
 
 Die drei Ebenen können aufgrund der Merkmale Sichtbarkeit und einfacher Möglichkeiten der Veränderung auch als Wasserlilie mit den Blättern (sichtbar, oberhalb des Wasserspiegels), dem Stängel (verschwommen, im Wasser) und den Wurzeln (unsichtbar, im Boden) dargestellt werden:
 
-![](images/kulturebenen-modell-lilie.png)
+![](images/schein-drei-ebenen-der-unternehmenskultur.png)
 
 ## Veränderung von Organisationen
 
@@ -88,7 +88,7 @@ Den systematischen Umgang mit Veränderungen nennt man Veränderungs- oder Chang
 
 David Gleicher hat sich schon in den 1960er Jahren mit der Frage beschäftigt, wann in Organisationen überhaupt Veränderung geschieht bzw. wie groß die Erfolgsaussichten von Veränderungsinitiativen sind. Das Ergebnis hat er in der Formel für Veränderung (s.a. [Formula for Change](https://en.wikipedia.org/wiki/Formula_for_change#cite_note-3)) zusammengefasst:
 
-**C = D x V x F > R**
+![Arbeitsvorlage Gleicher's Formel für Veränderung](./images/gleicher-formula-for-change.png)
 
 Veränderung (Change) geschieht dann, wenn das Produkt aus der Unzufriedenheit mit der aktuellen Situation (Dissatisfaction), der Vision einer positiven Zukunft (Vision) und konkrete erste Schritte in Richtung Vision (First Steps) größer ist, als der Widerstand gegen die Veränderung (Resistance). Da der Kern der Gleichung ein Produkt ist, führt jeder Faktor mit Wert 0 (z.B. Visionslosigkeit, völlige Zufriedenheit mit der Situation) zum Stillstand in der Organisation.
 
@@ -108,24 +108,22 @@ Der wohl bekannteste Top-down Change-Management-Ansatz **8-Stufen-Prozess** zur 
 4. Viel mehr Führung, nicht nur mehr Management.
 5. Zwei Systeme, eine Organisation.
 
-**Die 8 Schritte bzw. Beschleuniger der Veränderung im Vergleich:**
+**Die 8 Beschleuniger des Dual Operating System:**
 
-|      | Schritt der Veränderung (1996)                           | Beschleuniger der Veränderung (2014)                         |
-| ---- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| 1    | Ein Gefühl der Dringlichkeit erzeugen                    | Ein Gefühl der Dringlichkeit rund um eine große Chance erzeugen |
-| 2    | Eine Führungskoalition (en: Guiding Coalition) aufbauen  | Eine Führungskoalition (en: Guiding Coalition) aufbauen und dauerhaft unterstützen |
-| 3    | Vision und Strategie entwickeln                          | Eine strategische Vision und Veränderungsinitiativen rund um die große Chance entwickeln |
-| 4    | Die Vision des Wandels kommunizieren                     | Vision und die Strategie kommunizieren, um Buy-in zu erzeugen und eine wachsende Gruppe Freiwilliger (en: army of volunteers) zu aktivieren |
-| 5    | Mitarbeiter zu breit angelegten Aktionen befähigen       | Die Bewegung hin zur Vision und zur großen Chance beschleunigen, indem Sie dafür sorgen, dass das Netzwerk Barrieren beseitigt |
-| 6    | Kurzfristige Erfolge erzielen                            | Sichtbare, bedeutende kurzfristige Siege feiern              |
-| 7    | Fortschritte konsolidieren und mehr Veränderung bewirken | Niemals aufgeben. Lernen Sie weiter aus Erfahrungen. Erklären Sie den Sieg nicht zu früh |
-| 8    | Neue Ansätze in der Kultur verankern                     | Strategische Veränderungen in der Kultur institutionalisieren |
+1. Ein Gefühl der Dringlichkeit rund um eine große Chance erzeugen
+2. Eine Führungskoalition (en: Guiding Coalition) aufbauen und dauerhaft unterstützen
+3. Eine strategische Vision und Veränderungsinitiativen rund um die große Chance entwickeln
+4. Vision und die Strategie kommunizieren, um Buy-in zu erzeugen und eine wachsende Gruppe Freiwilliger (en: army of volunteers) zu aktivieren
+5. Die Bewegung hin zur Vision und zur großen Chance beschleunigen, indem Sie dafür sorgen, dass das Netzwerk Barrieren beseitigt
+6. Sichtbare, bedeutende kurzfristige Siege feiern
+7. Niemals aufgeben. Lernen Sie weiter aus Erfahrungen. Erklären Sie den Sieg nicht zu früh
+8. Strategische Veränderungen in der Kultur institutionalisieren
 
 ### Veränderung Bottom-up
 
-Neben der Veränderung vom oberen Ende der Hierarchie kann der Impuls zur Veränderung auch von unten kommen. In der Gesellschaft spricht man dabei von [sozialen Bewegungen](https://de.wikipedia.org/wiki/Soziale_Bewegung) (z.B. Occupy Wallstreet, Fridays for Future), in Organisationen wird oft der Begriff der Graswurzelbewegung verwendet (z.B. [#gernperDu](http://www.gernperdu.de), [Working Out Loud](https://workingoutloud.com/de/fur-dich)). Gemein ist diesen Bewegungen, dass sie aus einer Gruppe von Personen besteht, die mit verschiedenen Mobilisierungs- und Handlungsstrategien versucht, gesellschaftlichen oder organisatorischen Wandel zu beschleunigen, zu verhindern oder umzukehren. Nach Herbert Blumer (1969) durchläuft eine soziale Bewegung einen fünfstufigen Lebenszyklus:
+Neben der Veränderung vom oberen Ende der Hierarchie kann der Impuls zur Veränderung auch von unten kommen. In der Gesellschaft spricht man dabei von [sozialen Bewegungen](https://de.wikipedia.org/wiki/Soziale_Bewegung) (z.B. Occupy Wallstreet, Fridays for Future), in Organisationen wird oft der Begriff der Graswurzelbewegung verwendet (z.B. [#gernperDu](http://www.gernperdu.de), [Working Out Loud](https://workingoutloud.com/de/fur-dich)). Gemein ist diesen Bewegungen, dass sie aus einer Gruppe von Personen besteht, die mit verschiedenen Mobilisierungs- und Handlungsstrategien versucht, gesellschaftlichen oder organisatorischen Wandel zu beschleunigen, zu verhindern oder umzukehren. Nach Herbert Blumer (1969) durchläuft eine soziale Bewegung einen fünfstufigen Lebenszyklus vom Auftauchen (emergence) bis zum Rückgang (decline):
 
-![](./images/social-movement-lifecycle.png)
+![Stufen sozialer Bewegungen nach Blumer, eigene Darstellung](./images/blumer-stufen-sozialer-bewegungen.png.png)
 
 Eine Übersicht aktueller Graswurzelbewegungen in Organisationen sind im Buch [Graswurzelinitiativen in Unternehmen: Ohne Auftrag – mit Erfolg!](https://amzn.to/39SjqQX) von Sabine und Alexander Kluge zusammengefasst (s.a. Podcast [Kluges aus der Mitte](https://klugesausdermitte.podigee.io)).
 
@@ -135,7 +133,7 @@ Die Notwendigkeit, sich als Organisation immer schneller zu verändern, erforder
 
 Anders als die oft zitierte "Lähmschicht mittleres Management" sehen sie gerade Fach- und Führungskräften auf den mittleren Ebenen als entscheidende Akteure im Veränderungsprozess. Sie können die Brücke zwischen den visionären Idealen der obersten Leitung und den oft chaotischen Realitäten der Mitarbeitenden an vorderster Front bilden. Es entsteht eine spiralartige Bewegung, in der die großen Vision immer wieder an den bestehenden Realitäten gespiegelt werden und iterativer Fortschritt entsteht.
 
-![](images/middle-up-down-knowledge-creation.jpg)
+![Middle-up-down Management nach Nonaka, eigene Darstellung](images/nonaka-middle-up-down-management.png)
 
 ### Lead by example - Mit gutem Beispiel vorangehen
 
@@ -145,7 +143,7 @@ Im Veränderungsmanagement gibt es den schönen Spruch "Leading by example is no
 
 Das Video [First Follower: Leadership Lessons from Dancing Guy](https://www.youtube.com/watch?v=fW8amMCVAJQ) zeigt das Gefühl, das man als erster Treiber einer Veränderung hat: man fühlt sich als "Lone Nut". Es kommt darauf an, die ersten Personen zu finden, die mitmachen (First Follower). Sind diese gefunden, ist der Kern für für eine Veränderungsbewegung geschaffen, die von alleine wachsen und skalieren kann. Das Gefühl, das sich einstellt hat Lugano Kihachi im [Video zum Continental GUIDE Kick-off](https://www.youtube.com/watch?v=Pm-np_XNqMc) mit "I'm not alone!" schön in Worte gekleidet.
 
-![Quelle: https://www.flickr.com/photos/toddle_email_newsletters/21031243458/in/photostream/](./images/change-vs-be-changed.png)
+![Who wants change von Alan O'Rourke auf Flickr (CC BY 2.0)](./images/change-vs-be-changed.png)
 
 ## Die Lernende Organisation und ihre Feinde
 
@@ -161,9 +159,9 @@ Da Wissen nie final ist, geht es bei der Lernenden Organisation nicht um idealen
 
 ### Die 2 Schleifen des Lernens
 
-Zu den sehr frühen Modellen des organisationalen Lernens gehört das Zweischleifen-Lernen (Double-Loop-Learning) von Chris Agyris und Donald Schön. Beim Einschleifen-Lernen wird auf eine Differenz zwischen Intention und Ergebnis durch die Wahl einer neuen Handlungsstrategie reagiert. Variablen wie die Normen und Politik der Organisation sowie die Ziele werden als gesetzt hingenommen. Zweischleifen-Lernen der Organisation liegt dann vor, wenn genau diese Veränderung von Variablen für die Lösung von Problemen oder die Erreichung von Ergebnissen auch mit in Betracht gezogen werden.
+Zu den sehr frühen Modellen des organisationalen Lernens gehört das Zweischleifen-Lernen (Double-Loop-Learning) von Chris Agyris und Donald Schön. Beim Einschleifen-Lernen wird auf eine Differenz zwischen Intention und Ergebnis durch die Wahl einer neuen Handlungsstrategie reagiert. Variablen wie die Normen und Politik der Organisation sowie die Ziele werden als gesetzt hingenommen. Doppelschleifen-Lernen der Organisation liegt dann vor, wenn genau diese Veränderung von Variablen für die Lösung von Problemen oder die Erreichung von Ergebnissen auch mit in Betracht gezogen werden.
 
-![Quelle: https://www.kraus-und-partner.de/wissen-und-co/wiki/double-loop-learning](./images/double-loop-learning.jpg)
+![Doppelschleifen-Lernen nach Schön, eigene Darstellung](./images/schoen-doppelschleifen-lernen.png)
 
 ### Die 5 Disziplinen der Lernenden Organisation
 
@@ -234,9 +232,27 @@ Das [KM Cookbook](https://amzn.to/3iz3Lcz) nutzt die Metapher des Restaurants, u
 
 Als strategisches Tool wird der KM Chef's Canvas beschrieben, der entlang der Kategorien des ISO 30401 Standards strukturiert ist und 57 Leitfragen stellt, mit denen der eigene Ansatz des Wissensmanagements gestaltet werden kann.
 
-![](./images/km-chefs-canvas-v10.jpg)
+![KM Chef's Canvas 1.0 (CC BY NC ND)](./images/km-chefs-canvas-v10.jpg)
 
 **Hinweis:** Mit dem Durchlaufen des Lernpfades in diesem Leitfaden entwickelt man einen Ansatz der Lernenden Organisation, der alle Anforderungen der ISO 30401:2018 erfüllt.
+
+### Der lernOS Canvas für Organisationen
+
+Der lernOS Canvas hilft, das "Systemdenken" über die eigene Organisation zu entwickeln. Mit ihm können die wichtigsten Elemente des "Lernenden Systems" der eigenen Organisation identifiziert, Verbesserungspotentiale benannt und bewertet werden.
+
+Wie auch beim [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) von Alexander Osterwald dient der lernOS Canvas als Arbeitsinstrument, um am Whiteboard (physisch oder digital) mit einer Gruppe von Personen über die einzelnen Felder des Canvas reden zu können. Sind Systemelemente identifiziert, können diese als Haftnotiz in den Canvas geklebt werden. Man sollte nie auf den Canvas schreiben, da das den Prozess unflexibel macht.
+
+![lernOS Canvas für Organisationen](./images/lernOS-Canvas-for-Organizations-de.png)
+
+Mit zwei verschiedenen Farben von Haftnotizen kann der Ist-Zustand und das Verbesserungspotential nebeneinander dargestellt werden. Es können z.B. gelbe Haftnotizen für den Ist-Zustand und orange Haftnotizen für mögliche Initiativen zur Verbesserung. Ist die Sammlung der Elemente in allen Bereichen abgeschlossen, können diese mit Punkten bewertet werden, um die wichtigsten Handlungsfelder zu identifizieren.
+
+Der lernOS Canvas für Organisationen besteht aus vier Bereichen. Zentrales Elemente ist der Zweck oder der Organisation, also was die Organisation wirklich, wirklich will. Die vier quadratischen Kästen im linken Teil stellen dar, wer in der Organisation wie handelt (Hierarchie, Prozesse, Netzwerke, Communities) und was für die Ausführung der Handlungen benötigt wird (Menschen, Fähigkeiten, Technik, Infrastruktur).
+
+In den vier Kästen im rechten Teil wird abgebildet, für wen was gemacht wird (Kunden, Zielgruppen, Produkte, Ergebnisse), in welche Richtung die Reise gehen soll (Vision, Strategie, Ziele) und welche kulturellen Rahmenbedingungen zu beachten sind (Kultur, Werte).
+
+Im unteren Bereich des Canvas befindet sich jeweils ein Rechteck für Potentiale (Stärken, Kapital) und Risikofaktoren (Schwächen, Risiken). Mit dem Begriff Kapital ist dabei nicht nur das finanzielle Kapital, sondern auch das [intellektuelle Kapital](https://de.wikipedia.org/wiki/Intellektuelles_Kapital) der Organisation gemeint.
+
+**ProTip:** die Grafik des lernOS Canvas kann für die virtuelle Zusammenarbeit ganz einfach in digitale Whiteboards wie z.B. Microsoft Whiteboard, Mural, Miro oder Conceptboard kopiert werden.
 
 ## Eine Lernende Organisation kultivieren
 
@@ -253,7 +269,7 @@ Der Ansatz von lernOS für Organisationen besteht sich aus zwei zentralen Bestan
 
 Die Koalition des Lernens ist eine Gruppe von mindestens drei Personen in der Organisation, denen Wissen und Lernen wirklich, wirklich am Herzen liegen. Anders als frühere Wissensmanagement-Abteilungen oder Bereiche des Chief Learning/Knowledge Office ist die Koalition des Lernens nicht als "Kästchen im Organigramm" verortet, sondern bildet den Kern der Netzwerkstruktur der Organisation (Wie bei Kotter die "Guiding Coalition"). Akteure in der Koalition des Lernens kommen typischerweise aus Personal, Organisationsentwicklung, IT, Strategie, Wissens-/Innovations-/Qualitätsmanagement oder den Fachbereichen.
 
-![Dual Operating System nach John Kotter, Quelle: [Harvard Business Review](https://hbr.org/resources/images/article_assets/hbr/1211/R1211B_A_LG.gif)](images/dual-operating-system.gif) 
+![Koalition des Lernens in Anlehnung an Kotters Guiding Coalition](./images/koalition-des-lernens.png)
 
 **Eigenschaften der Koalition des Lernens:**
 
@@ -288,13 +304,13 @@ Ein Open Space hat ähnlich einem BarCamp keine feste Agenda, aber klare Struktu
 * **Prinzip 3:** Es beginnt, wenn die Zeit reif ist.
 * **Prinzip 4:** Vorbei ist vorbei - nicht vorbei ist nicht vorbei.
 * **Prinzip 5:** Wo auch immer es geschieht, es ist der richtige Ort.
-* **Gesetzt:** Die Teilnehmer*innen bleiben nur so lange in einer Gruppe, wie er es für sinnvoll erachtet, also solange er/sie etwas lernt und/oder beitragen kann. Benutze deine beiden Füße, um an einen produktiveren Platz zu gehen.
+* **Gesetz:** Die Teilnehmer*innen bleiben nur so lange in einer Gruppe, wie er es für sinnvoll erachtet, also solange er/sie etwas lernt und/oder beitragen kann. Benutze deine beiden Füße, um an einen produktiveren Platz zu gehen.
 * **Mache dich darauf gefasst, überrascht zu werden!**
 
 Die Anwendung des Open Space Formats bei Open Space Agility sieht die Wiederholung von Open Spaces im Abstand von 3-6 Monaten vor, um ein verlässliches Raster für Lern-Experimente zu bilden. Für die dauerhafte Begleitung der Open Spaces sind folgende Rollen vorgesehen:
 
 * **Der Sponsor:** authorisiert die Veranstaltung, stellt Wertschätzung der Veranstaltung und ihrer Ergebnisse heraus, übergibt Verantwortung für die Durchführung an den Moderator und lässt dem Open Space seinen Lauf.
-* **Der Moderator (en: facilitator):** erhält die Verantwortung für die Durchführung vom Sponsor, ermöglicht die Selbstorganisation im Open Space und übergibt die Verantwortung für den Erfolg der Veranstaltung an die Teilnehmer.
+* **Der Moderator (facilitator):** erhält die Verantwortung für die Durchführung vom Sponsor, ermöglicht die Selbstorganisation im Open Space und übergibt die Verantwortung für den Erfolg der Veranstaltung an die Teilnehmer.
 * **Die Teilnehmer:** entscheiden Session-Besuche und Diskussions-Teilnahmen selbstorganisiert, teilen die Ergebnisse mit dem Rest der Organisation 
 * **Die Session-Geber:** schlagen Sessions und Themen für kleine Gruppen vor, ermöglichen allen Session-Teilnehmern Beiträge und sind für die Dokumentation der Session verantwortlich.
 

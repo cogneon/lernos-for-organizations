@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90.714279"
+   inkscape:export-xdpi="90.714279"
+   inkscape:export-filename="C:\Users\SimonDückert\OneDrive - Cogneon GmbH\Dokumente\GitHub\lernos-for-organizations\de\src\images\gleicher-formula-for-change.png"
+   sodipodi:docname="gleicher-formula-for-change.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg311"
+   version="1.1"
+   viewBox="0 0 296.99999 210.00004"
+   height="210mm"
+   width="297mm">
+  <defs
+     id="defs305">
+    <linearGradient
+       id="e">
+      <stop
+         stop-color="#f06"
+         stop-opacity=".49"
+         offset="0"
+         id="stop358" />
+      <stop
+         stop-color="#a04"
+         offset="1"
+         id="stop360" />
+    </linearGradient>
+    <linearGradient
+       id="a">
+      <stop
+         stop-color="#ffff62"
+         offset="0"
+         id="stop363" />
+      <stop
+         stop-color="#ff0074"
+         stop-opacity=".82143"
+         offset="1"
+         id="stop365" />
+    </linearGradient>
+    <linearGradient
+       id="c">
+      <stop
+         stop-color="#ff0069"
+         offset="0"
+         id="stop368" />
+      <stop
+         stop-color="#ffbc8e"
+         stop-opacity=".48214"
+         offset="1"
+         id="stop370" />
+    </linearGradient>
+    <linearGradient
+       id="b">
+      <stop
+         stop-color="#f06"
+         stop-opacity=".49107"
+         offset="0"
+         id="stop373" />
+      <stop
+         stop-color="#860070"
+         offset="1"
+         id="stop375" />
+    </linearGradient>
+    <linearGradient
+       id="d">
+      <stop
+         stop-color="#f4e3d7"
+         offset="0"
+         id="stop378" />
+      <stop
+         stop-color="#f4ff0e"
+         stop-opacity="0"
+         offset="1"
+         id="stop380" />
+    </linearGradient>
+    <linearGradient
+       id="br"
+       x1="493.75"
+       x2="493.75"
+       y1="551.61"
+       y2="688.62"
+       gradientTransform="translate(-10,-357.61)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ff6ba2"
+         offset="0"
+         id="stop383" />
+      <stop
+         stop-color="#ff4551"
+         offset=".58962"
+         id="stop385" />
+      <stop
+         stop-color="#a84551"
+         offset="1"
+         id="stop387" />
+    </linearGradient>
+    <linearGradient
+       id="bs"
+       x1="487.55"
+       x2="470.05"
+       y1="543.07"
+       y2="558.62"
+       gradientTransform="translate(0,-352.36)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="bt"
+       x1="390.5"
+       x2="367.25"
+       y1="229"
+       y2="235.75"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="bu"
+       x1="491.5"
+       x2="456.5"
+       y1="328.5"
+       y2="357.75"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ff008d"
+         stop-opacity=".49107"
+         offset="0"
+         id="stop392" />
+      <stop
+         stop-color="#bf004c"
+         stop-opacity=".86667"
+         offset=".46975"
+         id="stop394" />
+      <stop
+         stop-color="#a04"
+         offset="1"
+         id="stop396" />
+    </linearGradient>
+    <linearGradient
+       id="bv"
+       x1="408.75"
+       x2="375"
+       y1="194.88"
+       y2="209.88"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="bw"
+       x1="429.34"
+       x2="401.25"
+       y1="216.62"
+       y2="226"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="bx"
+       x1="443.47"
+       x2="424.21"
+       y1="201.22"
+       y2="213.49"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#d" />
+    <linearGradient
+       id="by"
+       x1="513.75"
+       x2="493.75"
+       y1="196.25"
+       y2="208.2"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="bz"
+       x1="517.75"
+       x2="506.25"
+       y1="299.75"
+       y2="309"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="ca"
+       x1="531.5"
+       x2="512.25"
+       y1="294"
+       y2="302.5"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="cb"
+       x1="482.52"
+       x2="447.88"
+       y1="209.21"
+       y2="230.25"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="cc"
+       x1="407.5"
+       x2="463.1"
+       y1="272.25"
+       y2="254.34"
+       gradientTransform="translate(-10,347.11)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#c" />
+    <linearGradient
+       id="cd"
+       x1="530.31"
+       x2="495.87"
+       y1="585.55"
+       y2="599.81"
+       gradientTransform="translate(-10,-357.61)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="ce"
+       x1="405.62"
+       x2="393.38"
+       y1="545.61"
+       y2="553.86"
+       gradientTransform="translate(113.5,-355.61)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#d" />
+    <linearGradient
+       id="cf"
+       x1="430.78"
+       x2="419.13"
+       y1="590.83"
+       y2="598.67"
+       gradientTransform="translate(113.5,-355.61)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="cg"
+       x1="519.44"
+       x2="481.64"
+       y1="275.8"
+       y2="290.48"
+       gradientTransform="translate(-10,347.11)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="ch"
+       x1="428.46"
+       x2="384.75"
+       y1="255.92"
+       y2="275.25"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="ci"
+       x1="391.75"
+       x2="367"
+       y1="264.5"
+       y2="273.5"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="cj"
+       x1="421"
+       x2="370.25"
+       y1="223"
+       y2="248.5"
+       gradientTransform="translate(-10,347.11)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="ck"
+       x1="380.47"
+       x2="400.49"
+       y1="232.39"
+       y2="221.97"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="cl"
+       x1="416.88"
+       x2="391.25"
+       y1="302.5"
+       y2="310.5"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ff8080"
+         offset="0"
+         id="stop415" />
+      <stop
+         stop-color="#ff0082"
+         offset="1"
+         id="stop417" />
+    </linearGradient>
+    <linearGradient
+       id="cm"
+       x1="464.66"
+       x2="441.79"
+       y1="274.51"
+       y2="290.26"
+       gradientTransform="translate(-10,347.11)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="aw"
+       x1="459.54"
+       x2="427.72"
+       y1="220.17"
+       y2="233.96"
+       gradientTransform="translate(-10,347.11)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="ax"
+       x1="446.33"
+       x2="467.19"
+       y1="215.17"
+       y2="208.25"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="ay"
+       x1="530.99"
+       x2="509.42"
+       y1="218.51"
+       y2="224.99"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#d" />
+    <linearGradient
+       id="az"
+       x1="540.8"
+       x2="523.43"
+       y1="272.21"
+       y2="284.95"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="ba"
+       x1="439.28"
+       x2="470.71"
+       y1="273.45"
+       y2="255.23"
+       gradientTransform="translate(-10,347.11)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#c" />
+    <linearGradient
+       id="bb"
+       x1="484.81"
+       x2="464.69"
+       y1="285.13"
+       y2="299.62"
+       gradientTransform="translate(-10,347.11)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="bc"
+       x1="482.25"
+       x2="437.38"
+       y1="313.88"
+       y2="343.38"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="bd"
+       x1="497.12"
+       x2="468.25"
+       y1="327.62"
+       y2="345.25"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="be"
+       x1="422"
+       x2="465"
+       y1="306.62"
+       y2="298.62"
+       gradientTransform="translate(-10,347.11)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#c" />
+    <linearGradient
+       id="bf"
+       x1="413.5"
+       x2="431.62"
+       y1="330.5"
+       y2="323"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#c" />
+    <linearGradient
+       id="bg"
+       x1="445.51"
+       x2="431.25"
+       y1="310.74"
+       y2="334.25"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="bh"
+       x1="500.68"
+       x2="490.25"
+       y1="317.18"
+       y2="327.25"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#f06"
+         stop-opacity=".49107"
+         offset="0"
+         id="stop432" />
+      <stop
+         stop-color="#bf004c"
+         stop-opacity=".86667"
+         offset=".74372"
+         id="stop434" />
+      <stop
+         stop-color="#a04"
+         offset="1"
+         id="stop436" />
+    </linearGradient>
+    <linearGradient
+       id="bi"
+       x1="534.12"
+       x2="524.62"
+       y1="216.04"
+       y2="220.88"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+    <linearGradient
+       id="bj"
+       x1="465.1"
+       x2="489.14"
+       y1="243.74"
+       y2="232.6"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#c" />
+    <linearGradient
+       id="bk"
+       x1="515.71"
+       x2="491.26"
+       y1="260.92"
+       y2="268.84"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#e" />
+    <linearGradient
+       id="bl"
+       x1="536.38"
+       x2="523.38"
+       y1="565.36"
+       y2="573.74"
+       gradientTransform="translate(0,-352.36)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="bm"
+       x1="517.62"
+       x2="509.12"
+       y1="593.74"
+       y2="607.74"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#e" />
+    <linearGradient
+       id="bn"
+       x1="544.74"
+       x2="515.3"
+       y1="213.01"
+       y2="227.12"
+       gradientTransform="translate(-10,-5.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#d" />
+    <linearGradient
+       id="bo"
+       x1="404.47"
+       x2="416.88"
+       y1="234.72"
+       y2="230.33"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#c" />
+    <linearGradient
+       id="bp"
+       x1="446.64"
+       x2="425.07"
+       y1="248.28"
+       y2="260.13"
+       gradientTransform="translate(-10,347.11)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="bq"
+       x1="471.64"
+       x2="448.13"
+       y1="246.74"
+       y2="260.71"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#b" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     units="mm"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1027"
+     inkscape:window-width="2560"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="405.39776"
+     inkscape:cx="608.0014"
+     inkscape:zoom="0.96407581"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata308">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-86.999969)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <g
+       transform="matrix(0.36842994,0,0,0.36842994,-58.948556,-85.350361)"
+       inkscape:label="Layer"
+       id="layer2" />
+    <rect
+       y="104.31632"
+       x="11.992752"
+       height="180.72188"
+       width="279.07687"
+       id="rect2309-1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.923121;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="147.17252"
+       x="11.855359"
+       height="138.00307"
+       width="56.037769"
+       id="rect2309-1-3-2-1-4-5"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.648335;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.648335;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect2309-1-3-2-1-4-5-9"
+       width="56.037769"
+       height="138.00307"
+       x="67.855354"
+       y="147.22313" />
+    <rect
+       y="147.2224"
+       x="123.85497"
+       height="138.00386"
+       width="55.901337"
+       id="rect2309-1-3-2-1-4-5-9-0"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.647547;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.647538;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect2309-1-3-2-1-4-5-9-0-9"
+       width="55.901348"
+       height="138.00012"
+       x="179.85497"
+       y="147.22426" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.4132px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.360332"
+       x="63.784309"
+       y="130.78795"
+       id="text206-0"><tspan
+         sodipodi:role="line"
+         id="tspan204-9"
+         x="63.784309"
+         y="130.78795"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.4132px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.360332">=</tspan></text>
+    <rect
+       y="147.17429"
+       x="235.85338"
+       height="138.00328"
+       width="55.355625"
+       id="rect2309-1-3-2-1-4-5-9-0-9-7"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.644377;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <text
+       id="text206-0-4"
+       y="128.85495"
+       x="120.22515"
+       style="font-style:normal;font-weight:normal;font-size:11.5083px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.287707"
+       xml:space="preserve"><tspan
+         id="tspan259"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5083px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.287707"
+         y="128.85495"
+         x="120.22515"
+         sodipodi:role="line">x</tspan></text>
+    <text
+       id="text206-0-4-2-4"
+       y="130.52237"
+       x="232.00067"
+       style="font-style:normal;font-weight:normal;font-size:13.2812px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33203"
+       xml:space="preserve"><tspan
+         id="tspan259-1-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.2812px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.33203"
+         y="130.52237"
+         x="232.00067"
+         sodipodi:role="line">&gt;</tspan></text>
+    <g
+       transform="translate(4.2162122,-2.4574729)"
+       id="g499">
+      <text
+         id="text206-1"
+         y="135.35353"
+         x="75.965279"
+         style="font-style:normal;font-weight:normal;font-size:20.1222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.503055"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.1222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.503055"
+           y="135.35353"
+           x="75.965279"
+           id="tspan204-2"
+           sodipodi:role="line">D</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.84123px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0710303"
+         x="88.595428"
+         y="135.32579"
+         id="text206-21-8"><tspan
+           sodipodi:role="line"
+           id="tspan204-7-8"
+           x="88.595428"
+           y="135.32579"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84123px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0710303">issatisfaction</tspan></text>
+    </g>
+    <g
+       transform="translate(13.923741,-0.85763321)"
+       id="g520">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20.1222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.503056"
+         x="14.860216"
+         y="133.75861"
+         id="text206"><tspan
+           sodipodi:role="line"
+           id="tspan204"
+           x="14.860216"
+           y="133.75861"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.1222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.503056">C</tspan></text>
+      <text
+         id="text206-21-8-6"
+         y="133.27255"
+         x="27.800156"
+         style="font-style:normal;font-weight:normal;font-size:2.84123px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0710303"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84123px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0710303"
+           y="133.27255"
+           x="27.800156"
+           id="tspan204-7-8-2"
+           sodipodi:role="line">hange</tspan></text>
+    </g>
+    <g
+       transform="translate(12.937083,-3.2808066)"
+       id="g493">
+      <text
+         id="text206-2"
+         y="136.17686"
+         x="130.57933"
+         style="font-style:normal;font-weight:normal;font-size:20.1222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.503055"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.1222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.503055"
+           y="136.17686"
+           x="130.57933"
+           id="tspan204-3"
+           sodipodi:role="line">V</tspan></text>
+      <text
+         id="text206-21-8-4"
+         y="136.14912"
+         x="141.13127"
+         style="font-style:normal;font-weight:normal;font-size:2.84123px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0710303"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84123px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0710303"
+           y="136.14912"
+           x="141.13127"
+           id="tspan204-7-8-7"
+           sodipodi:role="line">ision</tspan></text>
+    </g>
+    <g
+       transform="translate(-5.0154791,-3.824781)"
+       id="g487">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20.1222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.503055"
+         x="196.9944"
+         y="136.72575"
+         id="text206-2-8"><tspan
+           sodipodi:role="line"
+           id="tspan204-3-9"
+           x="196.9944"
+           y="136.72575"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.1222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.503055">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.84123px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0710303"
+         x="209.66129"
+         y="136.2397"
+         id="text206-21-8-4-5"><tspan
+           sodipodi:role="line"
+           id="tspan204-7-8-7-4"
+           x="209.66129"
+           y="136.2397"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84123px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0710303">oncrete steps</tspan></text>
+    </g>
+    <g
+       transform="translate(-0.92427814,-2.4574881)"
+       id="g481">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20.1222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.503055"
+         x="250.51068"
+         y="135.35355"
+         id="text206-2-7"><tspan
+           sodipodi:role="line"
+           id="tspan204-3-5"
+           x="250.51068"
+           y="135.35355"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.1222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.503055">R</tspan></text>
+      <text
+         id="text206-21-8-4-5-9"
+         y="135.32581"
+         x="264.44226"
+         style="font-style:normal;font-weight:normal;font-size:2.84123px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0710303"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.84123px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0710303"
+           y="135.32581"
+           x="264.44226"
+           id="tspan204-7-8-7-4-3"
+           sodipodi:role="line">esistance</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.5083px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.287708"
+       x="176.4332"
+       y="128.85495"
+       id="text206-0-4-9"><tspan
+         sodipodi:role="line"
+         x="176.4332"
+         y="128.85495"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5083px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.287708"
+         id="tspan259-8">x</tspan></text>
+  </g>
+</svg>
