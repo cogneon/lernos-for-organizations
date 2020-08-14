@@ -6,7 +6,7 @@ docs_dir: src
 site_dir: ../docs/de
 
 nav:
-    - Über lernOS: index.md
+    - Vorwort: index.md
     - Grundlagen: 1-Grundlagen.md
     - Lernpfad: 2-Lernpfad.md
     - Anhang: 3-Anhang.md
