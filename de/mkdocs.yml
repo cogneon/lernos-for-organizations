@@ -7,10 +7,16 @@ site_dir: ../docs/de
 
 nav:
     - Vorwort: index.md
-    - Grundlagen: 1-Grundlagen.md
-    - Lernpfad: 2-Lernpfad.md
-    - Anhang: 3-Anhang.md
-
+    - Grundlagen:
+        - Ein zeitgemäßes Verständnis von Organisationen: 3-1-Ein-zeitgemaesses-Verstaendnis-von-Organisation.md
+        - Veränderung von Organisationen: 3-2-Veraenderung-von-Organisation.md
+        - Die Lernende Organisation und ihre Feinde: 3-3-Die-Lernende-Organisation-und-ihre-Feinde.md
+        - Eine Lernende Organisation kultivieren: 3-4-Eine-Lernende-Organisation-kultivieren.md
+    - Lernpfad:
+        - Lernpfad: 4-Lernpfad.md
+    - Anhang:
+        - Anhang: 5-Anhang.md
+    - lernos.org: 'http://lernos.org'
 theme:
     name: 'material'
     palette:

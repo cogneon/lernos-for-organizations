@@ -6,7 +6,7 @@ REM See lernOS Core Repository
 
 REM Variables
 set filename="lernOS-Guide-for-Organizations-de"
-set chapters=./src/index.md ./src/1-Grundlagen.md ./src/2-Lernpfad.md ./src/3-Anhang.md
+set chapters=./src/index.md ./src/3-1-Ein-zeitgemaesses-Verstaendnis-von-Organisation.md ./src/3-2-Veraenderung-von-Organisation.md ./src/3-3-Die-Lernende-Organisation-und-ihre-Feinde.md ./src/3-4-Eine-Lernende-Organisation-kultivieren.md ./src/4-Lernpfad.md ./src/5-Anhang.md
 
 REM Delete Old Versions
 echo Deleting old versions ...
