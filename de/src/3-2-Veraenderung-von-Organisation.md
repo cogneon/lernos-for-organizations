@@ -40,7 +40,7 @@ Der wohl bekannteste Top-down Change-Management-Ansatz **8-Stufen-Prozess** zur 
 3. Eine strategische Vision und Veränderungsinitiativen rund um die große Chance entwickeln
 4. Vision und die Strategie kommunizieren, um Buy-in zu erzeugen und eine wachsende Gruppe Freiwilliger (en: army of volunteers) zu aktivieren
 5. Die Bewegung hin zur Vision und zur großen Chance beschleunigen, indem Sie dafür sorgen, dass das Netzwerk Barrieren beseitigt
-6. Sichtbare, bedeutende kurzfristige Siege feiern
+6. Sichtbare, bedeutende und kurzfristige Siege feiern
 7. Niemals aufgeben. Lernen Sie weiter aus Erfahrungen. Erklären Sie den Sieg nicht zu früh
 8. Strategische Veränderungen in der Kultur institutionalisieren
 
