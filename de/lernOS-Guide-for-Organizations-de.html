@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-de" xml:lang="de-de">
 <head>
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
@@ -7,12 +7,144 @@
   <meta name="author" content="Simon Dückert" />
   <title>lernOS für Organisationen Leitfaden</title>
   <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     span.underline{text-decoration: underline;}
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -23,66 +155,24 @@
 <h1 class="title">lernOS für Organisationen Leitfaden</h1>
 <p class="subtitle">Gemeinsam Lernende Organisationen entwickeln</p>
 <p class="author">Simon Dückert</p>
-<p class="date">Version 0.7 (dd.mm.2020)</p>
+<p class="date">Version 0.7 (12.09.2020)</p>
 </header>
 <nav id="TOC" role="doc-toc">
-<ul>
-<li><a href="#vorwort">Vorwort</a></li>
-<li><a href="#über-lernos">Über lernOS</a></li>
-<li><a href="#grundlagen">Grundlagen</a>
-<ul>
-<li><a href="#ein-zeitgemäßes-verständnis-von-organisationen">Ein zeitgemäßes Verständnis von Organisationen</a>
-<ul>
-<li><a href="#zweck-mitgliedschaft-und-hierarchie">Zweck, Mitgliedschaft und Hierarchie</a></li>
-<li><a href="#betriebssysteme-1-organisation">2 Betriebssysteme, 1 Organisation</a></li>
-<li><a href="#von-der-maschine-zu-gehirn-und-organismus-als-metapher">Von der Maschine zu Gehirn und Organismus als Metapher</a></li>
-<li><a href="#organisationskultur">Organisationskultur</a></li>
-</ul></li>
-<li><a href="#veränderung-von-organisationen">Veränderung von Organisationen</a>
-<ul>
-<li><a href="#gleichers-formel-für-veränderung">Gleicher’s Formel für Veränderung</a></li>
-<li><a href="#veränderung-top-down">Veränderung Top-down</a></li>
-<li><a href="#veränderung-bottom-up">Veränderung Bottom-up</a></li>
-<li><a href="#veränderung-middle-up-down">Veränderung Middle-Up-Down</a></li>
-<li><a href="#lead-by-example---mit-gutem-beispiel-vorangehen">Lead by example - Mit gutem Beispiel vorangehen</a></li>
-</ul></li>
-<li><a href="#die-lernende-organisation-und-ihre-feinde">Die Lernende Organisation und ihre Feinde</a>
-<ul>
-<li><a href="#die-2-schleifen-des-lernens">Die 2 Schleifen des Lernens</a></li>
-<li><a href="#die-5-disziplinen-der-lernenden-organisation">Die 5 Disziplinen der Lernenden Organisation</a></li>
-<li><a href="#die-3-bausteine-der-lernenden-organisation">Die 3 Bausteine der Lernenden Organisation</a></li>
-<li><a href="#die-13-feinde-der-lernenden-organisation">Die 13 Feinde der Lernenden Organisation</a></li>
-<li><a href="#die-iso-304012018-als-standard-für-die-lernende-organisation">Die ISO 30401:2018 als Standard für die Lernende Organisation</a></li>
-<li><a href="#der-lernos-canvas-für-organisationen">Der lernOS Canvas für Organisationen</a></li>
-</ul></li>
-<li><a href="#eine-lernende-organisation-kultivieren">Eine Lernende Organisation kultivieren</a>
-<ul>
-<li><a href="#koalition-des-lernens-kdl">Koalition des Lernens (KdL)</a></li>
-<li><a href="#open-space-des-lernens-osdl">Open Space des Lernens (OSdL)</a></li>
-<li><a href="#werkzeugkasten-des-lernens-wdl">Werkzeugkasten des Lernens (WdL)</a></li>
-</ul></li>
-</ul></li>
-<li><a href="#lernpfad">Lernpfad</a></li>
-<li><a href="#anhang">Anhang</a>
-<ul>
-<li><a href="#danksagungen">Danksagungen</a></li>
-<li><a href="#änderungshistorie">Änderungshistorie</a></li>
-</ul></li>
-</ul>
+
 </nav>
-<h1 id="vorwort">Vorwort</h1>
+<h1 data-number="1" id="vorwort"><span class="header-section-number">1</span> Vorwort</h1>
 <p>Willkommen im <strong>lernOS für Organisationen Leitfaden</strong>. Dass du hier bist zeigt, dass du dich für das Bestehen und den Erfolg deiner Organisation interessierst und einsetzen möchtest. Der Übergang von Industrie- zu Wissensgesellschaft erfordert einen neuen Blickwinkel auf Organisationen. Wissen und Lernen sind schon die zentralen Erfolgsfaktoren geworden. Daher sollte sich die Haltung von “Wissen ist Macht” zu “Wissen teilen ist Macht” wandeln.</p>
 <p>Dafür vermittelt dieser Leitfaden im <strong>Kapitel Grundlagen</strong> einen Einblick in zentrale Konzepte der Organisationstheorie und der zeitgemäßen Veränderung von Organisationen. Die Theorien werden kompakt vorgestellt, weiterführende Informationen sowie interessante Persönlichkeiten sind an vielen Stellen verlinkt.</p>
 <p>Das <strong>Kapitel Lernpfad</strong> dient dem Einstieg in die Praxis. Gemeinsam mit einigen Mitstreitern gründest du eine “Koalition des Lernens” in deiner Organisation. Ihr identifiziert gemeinsam die wichtigsten Handlungsfelder und startet mit dem “Open Space des Lernens” einen Entwicklungsprozess, der in 3-monatigen Zeitabschnitten (Sprints) konkrete Schritte zur Entwicklung einer Lernende Organisation unternimmt. Eine wachsende Gruppe Freiwilliger (“army of volunteers”) hilft im Lauf der Zeit dabei, die Lernende Organisation zum neuen Normal werden zu lassen.</p>
 <p>In der <a href="https://community.cogneon.de/c/lernos/lernos-fuer-organisationen">Kategorie lernOS für Organisationen auf CONNECT</a> können Erfahrungen bei der Umsetzung geteilt und Fragen gestellt werden. Viel Erfolg!</p>
-<h1 id="über-lernos">Über lernOS</h1>
+<h1 data-number="2" id="über-lernos"><span class="header-section-number">2</span> Über lernOS</h1>
 <p><strong>lernOS</strong> ist ein <a href="https://de.wikipedia.org/wiki/Offenes_System">offenes System</a> für <a href="https://de.wikipedia.org/wiki/Lebenslanges_Lernen">Lebenslanges Lernen</a> und <a href="https://de.wikipedia.org/wiki/Lernende_Organisation">Lernende Organisationen</a>. Die Funktionsweise von lernOS wird in <a href="https://opendefinition.org/od/2.1/de/">offen</a> verfügbaren <strong>Leitfäden</strong> beschrieben. lernOS kann ganz einfach als <strong>Einzelperson</strong>, im <strong>Team</strong> oder in der gesamten <strong>Organisation</strong> praktiziert werden.</p>
 <p>Startest du als Einzelperson, empfehlen wir dir, gemeinsam in einem <strong>Circle</strong> (4-5 Personen) oder zumindest in einem <strong>Lerntandem</strong> (2 Personen) zu starten. Weitere Informationen findest du auf der Seite <a href="http://lernos.org">lernos.org</a>. Mitstreiter findest du ganz einfach in der <a href="https://community.cogneon.de">lernOS Community CONNECT</a>. Dort gibt es auch den <a href="https://community.cogneon.de/c/lernos/lernos-circlefinder/">lernOS Circlefinder</a> als Marktplatz für Circle-Angebote und -Gesuche.</p>
 <p><strong>KEEP CALM &amp; LEARN ON!</strong></p>
-<h1 id="grundlagen">Grundlagen</h1>
-<h2 id="ein-zeitgemäßes-verständnis-von-organisationen">Ein zeitgemäßes Verständnis von Organisationen</h2>
+<h1 data-number="3" id="grundlagen"><span class="header-section-number">3</span> Grundlagen</h1>
+<h2 data-number="3.1" id="ein-zeitgemäßes-verständnis-von-organisationen"><span class="header-section-number">3.1</span> Ein zeitgemäßes Verständnis von Organisationen</h2>
 <p><a href="https://de.wikipedia.org/wiki/Organisation">Organisationen</a> als Teil der Gesellschaft gibt es in vielen Formen und Größen, z.B. Unternehmen, Schulen, Vereine und Parteien. Man weiß intuitiv, wann man es mit einer Organisation zu tun hat. Den Begriff Organisation zu definieren, ist aber nicht ganz so leicht. Der folgende Ausflug in die Organisationstheorie soll ein gemeinsames Verständnis des Organisationsbegriffs ermöglichen.</p>
-<h3 id="zweck-mitgliedschaft-und-hierarchie">Zweck, Mitgliedschaft und Hierarchie</h3>
+<h3 data-number="3.1.1" id="zweck-mitgliedschaft-und-hierarchie"><span class="header-section-number">3.1.1</span> Zweck, Mitgliedschaft und Hierarchie</h3>
 <p>Für die Entwicklung Lernender Organisationen ist ein Grundverständnis von <a href="https://de.wikipedia.org/wiki/Organisationstheorie">Organisationstheorie</a> und <a href="https://de.wikipedia.org/wiki/Systemtheorie">Systemtheorie</a>, insbesondere <a href="https://de.wikipedia.org/wiki/Komplexes_adaptives_System">komplexe adaptive System</a> und <a href="https://de.wikipedia.org/wiki/Soziotechnisches_System">soziotechnische Systeme</a>, notwendig. Ein System besteht aus Einzelteilen und ist von seiner Umwelt abgegrenzt. Ein Unternehmen wäre danach z.B. von der Gesellschaft (Umwelt) abgegrenzt, gleichzeitig besteht es aus Abteilungen, Menschen und Prozessen (Einzelteile).</p>
 <p>Der Soziologe Niklas Luhmann ist eine Organisation durch drei Merkmale gekennzeichnet (s.a. Kühl, S.: <a href="https://amzn.to/3jCIVtW">Organisationen - eine sehr kurze Einführung</a>):</p>
 <ol type="1">
@@ -91,12 +181,12 @@
 <li><strong>Hierarchien:</strong> durch die Gliederung des Zwecks der Organisation in Unterzwecke und die Übertragung von Verantwortung für Unterzwecke entstehen hierarchische Verantwortungsstrukturen.</li>
 </ol>
 <p><a href="https://www.linkedin.com/in/stefan-k%C3%BChl-7875213/">Stefan Kühl</a> unterscheidet mit “Maschine”, “Spiel” und “Fassade” drei Seiten der Organisation. Die Fassade beschreibt die Schauseite der Organisation in Richtung ihrer Umwelt (“Wir sind die Besten”). Der Begriff Maschine beschreibt das berechenbare Verhalten einer Organisation eine Leistung zu erbringen (Effizienz und Effektivität). Mit Spiel ist die Lebendigkeit der Organisation auch abseits des offiziellen Regelwerks gemeint (Informale Organisation).</p>
-<h3 id="betriebssysteme-1-organisation">2 Betriebssysteme, 1 Organisation</h3>
+<h3 data-number="3.1.2" id="betriebssysteme-1-organisation"><span class="header-section-number">3.1.2</span> 2 Betriebssysteme, 1 Organisation</h3>
 <p>Die Ursprünge der Organisationtheorie liegen in der Organisation von bürokratischen und militärischen Systemen (z.B. <a href="https://de.wikipedia.org/wiki/Max_Weber">Max Weber</a>, <a href="https://de.wikipedia.org/wiki/Henri_Fayol">Henri Fayol</a>, <a href="https://de.wikipedia.org/wiki/Frederick_Winslow_Taylor">Frederick W. Taylor</a>, <a href="https://de.wikipedia.org/wiki/Sunzi">Sunzi</a>). <a href="https://de.wikipedia.org/wiki/B%C3%BCrokratie">Bürokratische Strukturen</a> mit einfachen <a href="https://de.wikipedia.org/wiki/Hierarchie">Hierarchien</a> funktionieren gut, solange die Umwelt einer Organisation stabil ist und sich nur langsam wandelt. Im 21. Jahrhundert haben jedoch viele Organisationen Schwierigkeiten, mit der zunehmenden Geschwindigkeit des Wandels mitzuhalten oder gar den Wandel positiv zu gestalten (s.a. Kotter., J.: Accelerate: strategischen Herausforderungen schnell, agil und kreativ begegnen).</p>
 <p>Das Problem erklärt <a href="https://www.linkedin.com/in/johnkotter/">John Kotter</a> sehr anschaulich im Video <a href="https://www.youtube.com/watch?v=Pc7EVXnF2aI">Accelerate! The Evolution of the 21st Century Organization</a>. Die formale Organisation ermöglicht Stabilität und vorhersehbares Verhalten der Organisation. Um auf Wandel schnell reagieren zu können braucht es neben der Hierarchie aber auch eine Netzwerk-Struktur, die dynamisch und flexibel reagieren kann. Hierbei geht es nicht um eine Entweder-Oder-Entscheidung. Eine Organisation muss die für sie richtige Balance zwischen Stabilität und Agilität finden. Der Stabilität-Agilität-Schieberegler muss für unterschiedliche Teile der Organisation i.d.R. unterschiedlich eingestellt werden (z.B. in der Produktion mehr Stabilität, in der Entwicklung mehr Agilität).</p>
 <p>Die notwendige Organisationsstruktur nennt Kotter duales Betriebssystem (Dual Operating System). Das duale Betriebssystem besteht aus Hierarchie auf der einen und Netzwerk auf der anderen Seite. Das Netzwerk besteht aus einer sog. Führungskoalition (Guiding Coalition) als Sonne im Zentrum und strategischen Initiativen (Planeten) und Subinitiativen (Monde) außen herum. Die Netzwerk-Struktur ist dynamischer, als die Hierarchie. Initiativen können jederzeit gestartet, gestoppt, kombiniert oder geteilt werden.</p>
 <figure>
-<img src="images/kotter-dual-operating-system.png" alt="" /><figcaption>Dual Operating System nach John Kotter, eigene Darstellung</figcaption>
+<img src="images/kotter-dual-operating-system.png" alt="Dual Operating System nach John Kotter, eigene Darstellung" /><figcaption aria-hidden="true">Dual Operating System nach John Kotter, eigene Darstellung</figcaption>
 </figure>
 <p>Der Führungskoalition als Kern der Netzwerkstruktur kommt im dualen Betriebssystem eine besondere Bedeutung zu. Sie besteht aus Mitarbeitenden aus allen Bereichen der Organisation, die ein starkes Dringlichkeitsgefühl für die Veränderung der Organisation haben und eine Führungsrolle (nicht notwendigerweise hierarchische Führung) im Wandel übernehmen wollen. Das Kernteam besitzt die notwendige Motivation, das Engagement, das Netzwerk, die Fähigkeiten und die Informationen, um seiner Rolle als Kern der Netzwerkstruktur gerecht zu werden.</p>
 <p>Kotter benennt folgende 5 Prinzipien für ein gut funktionierendes duales Betriebssystem:</p>
@@ -114,7 +204,7 @@
 <li>Organisationale Ambidextrie mit Exploitation (Ausbeuten &amp; Effizienz) und Exploration (Lernen &amp; Innovation) in <a href="https://www.hbs.edu/faculty/Publication%20Files/O%27Reilly%20and%20Tushman%20AMP%20Ms%20051413_c66b0c53-5fcd-46d5-aa16-943eab6aa4a1.pdf">Organizational Ambidexterity: Past, Present and Future</a>.</li>
 <li>Management 2.0 in <a href="https://amzn.to/3glWhsA">The Future of Management</a> von Gary Hamel.</li>
 </ul>
-<h3 id="von-der-maschine-zu-gehirn-und-organismus-als-metapher">Von der Maschine zu Gehirn und Organismus als Metapher</h3>
+<h3 data-number="3.1.3" id="von-der-maschine-zu-gehirn-und-organismus-als-metapher"><span class="header-section-number">3.1.3</span> Von der Maschine zu Gehirn und Organismus als Metapher</h3>
 <p>Um die Wichtigkeit der lebendigen, dynamischen, kreativen und menschlichen Seite der Organisation zu betonen, bietet sich ein Wechsel der Metapher an, mit der über die Organisation gesprochen wird. Oftmals wird von Organisationen wie von Maschinen gesprochen, die produktiv funktionieren sollen und in denen die Menschen nur ein Zahnrädchen darstellen, das bei Defekt einfach ausgetauscht werden kann (schön dargestellt im Film <a href="https://www.youtube.com/watch?v=HAPilyrEzC4">Moderne Zeiten</a> mit Charlie Chaplin).</p>
 <p>Mit dem Übergang von <a href="https://de.wikipedia.org/wiki/Industriegesellschaft">Industriegesellschaft</a> zu <a href="https://de.wikipedia.org/wiki/Wissensgesellschaft">Wissensgesellschaft</a> wurden die Wissensarbeiter (<a href="https://en.wikipedia.org/wiki/Knowledge_worker">Knowledge Worker</a>) zum zentrallen Wertschöpfungsfaktor von Organisationen, Maschinen und Computer dagegen leicht austauschbar. Die Herausforderungen, die sich daraus für die Führung und Gestaltung von Organisationen im 21. Jahrhundert ergeben, fasst Peter Drucker in diesem Zitat anschaulich zusammen:</p>
 <blockquote>
@@ -122,7 +212,7 @@
 </blockquote>
 <p>Um dieser notwendigen “Re-Humanisierung” der Organisations- und Arbeitswelt gerecht zu werden sollte in der Sprache eher das Gehirn oder ein Organismus denn die Maschine oder der Roboter als Metapher verwendet werden:</p>
 <p><img src="images/organisation-als-organismus.png" /></p>
-<h3 id="organisationskultur">Organisationskultur</h3>
+<h3 data-number="3.1.4" id="organisationskultur"><span class="header-section-number">3.1.4</span> Organisationskultur</h3>
 <p>Neben der Struktur der Organisation gewinnt auch die organisationale Kultur für den Erfolg der Organisation immer mehr an Bedeutung. Der Begriff Kultur wir hierbei aber sehr unterschiedlich verwendet (“Wie wir hier arbeiten”, “Unsere Werte”, “Mentalität und Mindset” etc.).</p>
 <p>Der Sozialwissenschaftler <a href="https://de.wikipedia.org/wiki/Edgar_Schein">Edgar Schein</a> hat mit seinem <a href="https://de.wikipedia.org/wiki/Kulturebenen-Modell">Kultureben-Modell</a> eine gute Darstellung für die verschiedenen Ansatzpunkte für den Kulturwandel in Organisationen geschaffen. Das Modell besteht aus drei Ebenen, die sich wechselseitig beeinflussen (Schein, E.: <a href="https://amzn.to/2D4fosE">Organisationskultur</a>):</p>
 <ul>
@@ -133,7 +223,7 @@
 <p>Schein weist aber auch darauf hin, das die drei Ebenen “Manifestationen von Kultur”, nicht die Kultur selber sind. Aus dem Modell ergeben sich für einen kulturellen Wandel die Ansatzpunkte Veränderung von Artefakten, probagieren neuer Werte sowie das Hinterfragen von Grundannahmen.</p>
 <p>Die drei Ebenen können aufgrund der Merkmale Sichtbarkeit und einfacher Möglichkeiten der Veränderung auch als Wasserlilie mit den Blättern (sichtbar, oberhalb des Wasserspiegels), dem Stängel (verschwommen, im Wasser) und den Wurzeln (unsichtbar, im Boden) dargestellt werden:</p>
 <p><img src="images/schein-drei-ebenen-der-unternehmenskultur.png" /></p>
-<h2 id="veränderung-von-organisationen">Veränderung von Organisationen</h2>
+<h2 data-number="3.2" id="veränderung-von-organisationen"><span class="header-section-number">3.2</span> Veränderung von Organisationen</h2>
 <p>Organisationen leben nicht unendlich. Die durchschnittliche Lebenserwartung eines US-amerikanischen Unternehmens beispielsweise liegt aktuell bei rund 10 Jahren (s.a. Studie <a href="https://royalsocietypublishing.org/doi/10.1098/rsif.2015.0120">The Mortality of Companies</a>). In ihrer Lebenszeit durchläuft eine Organisation viele Veränderungsprozesse, die einen von zwei Ausgangspunkte haben kann:</p>
 <ol type="1">
 <li><strong>Änderungen in der Umwelt (reaktiv):</strong> Entwicklungen wie Digitalisierung, Globalisierung und der technologische Fortschritt führen dazu, dass sich Organisationen an geänderte Rahmenbedingungen anpassen müssen, um effektiv zu sein oder im Wettbewerb bestehen zu können.</li>
@@ -141,14 +231,14 @@
 </ol>
 <p>Den systematischen Umgang mit Veränderungen nennt man Veränderungs- oder Change Management. Handelt es sich bei der Veränderung um einen fundamentalen und dauerhaften Wandel, spricht man oft auch von Revolution (Industrielle Revolution) oder Transformation (Digitale Transformation, Agile Transformation).</p>
 <p><strong>ProTip:</strong> Starte immer mit dem Warum (s.a. Sinek, S.: <a href="https://amzn.to/2WRLEWK">Start With Why</a>, Video <a href="https://www.youtube.com/watch?v=qp0HIF3SfI4">Wie große Führungspersönlichkeiten zum Handeln inspirieren</a>): damit du beim Start einer Initiative zur Entwicklung der Organisation ein klares Ziel vor Augen hast und keinen kurzfristigen Moden hinterherläufst ist es wichtig, sich den Grund genau zu überlegen. Gibt es einen guten Grund die Organisation zu verändern? Kommt der Grund eher von außen (z.B. <a href="https://de.wikipedia.org/wiki/Trend_(Soziologie)#Megatrend">Megatrends</a>, <a href="https://de.wikipedia.org/wiki/Kondratjew-Zyklus">Kondratjew-Zyklen</a> oder <a href="https://de.wikipedia.org/wiki/Sozialer_Wandel">gesellschaftlichem Wandel</a>)? Oder gibt es einen intern Grund, sich verändern zu wollen (z.B. Digitale Transformation, Agile Transformation)?</p>
-<h3 id="gleichers-formel-für-veränderung">Gleicher’s Formel für Veränderung</h3>
+<h3 data-number="3.2.1" id="gleichers-formel-für-veränderung"><span class="header-section-number">3.2.1</span> Gleicher’s Formel für Veränderung</h3>
 <p>David Gleicher hat sich schon in den 1960er Jahren mit der Frage beschäftigt, wann in Organisationen überhaupt Veränderung geschieht bzw. wie groß die Erfolgsaussichten von Veränderungsinitiativen sind. Das Ergebnis hat er in der Formel für Veränderung (s.a. <a href="https://en.wikipedia.org/wiki/Formula_for_change#cite_note-3">Formula for Change</a>) zusammengefasst:</p>
 <figure>
-<img src="./images/gleicher-formula-for-change.png" alt="" /><figcaption>Arbeitsvorlage Gleicher’s Formel für Veränderung</figcaption>
+<img src="./images/gleicher-formula-for-change.png" alt="Arbeitsvorlage Gleicher’s Formel für Veränderung" /><figcaption aria-hidden="true">Arbeitsvorlage Gleicher’s Formel für Veränderung</figcaption>
 </figure>
 <p>Veränderung (Change) geschieht dann, wenn das Produkt aus der Unzufriedenheit mit der aktuellen Situation (Dissatisfaction), der Vision einer positiven Zukunft (Vision) und konkrete erste Schritte in Richtung Vision (First Steps) größer ist, als der Widerstand gegen die Veränderung (Resistance). Da der Kern der Gleichung ein Produkt ist, führt jeder Faktor mit Wert 0 (z.B. Visionslosigkeit, völlige Zufriedenheit mit der Situation) zum Stillstand in der Organisation.</p>
 <p><strong>ProTip:</strong> die Veränderungsformel kann man in Workshops gut dafür verwenden, um in einer Spalte unter jedem Buchstaben konkrete Aussagen zu sammeln und zu bewerten (z.B. “Womit sind wir unzufrieden?”, “Wo wollen wir in?”, “Welche konkreten Schritte können wir uns vorstellen?”, “Mit welchen Widerständen müssen wir rechen?”).</p>
-<h3 id="veränderung-top-down">Veränderung Top-down</h3>
+<h3 data-number="3.2.2" id="veränderung-top-down"><span class="header-section-number">3.2.2</span> Veränderung Top-down</h3>
 <p>Beim der Wandel einer Organisation denken viele intuitiv an den Anstoß der Veränderung aus der obersten Leitung, die Definition von Ist- und Soll-Zustand und dem Einsatz sog. <a href="https://de.wikipedia.org/wiki/Change_Agent">Change Agents</a> zur Begleitung der Veränderung. Die Veränderung ist i.d.R. innerhalb von Monaten oder Jahren abgeschlossen. Viele Veränderungsmaßnahmen, wie beispielsweise eine organisatorische Veränderung oder die Einführung von Software, lassen sich mit so einem Ansatz bewerkstelligen.</p>
 <p>Der wohl bekannteste Top-down Change-Management-Ansatz <strong>8-Stufen-Prozess</strong> zur Führung von Veränderungsprozessen (Kotter, J.: Leading Change). Im Jahr 2014 hat John Kotter seinen Veränderungsprozess an die neuen Rahmenbedingungen des 21. Jahrhunderts mit einer erhöhten Veränderungsgeschwindigkeit angepasst (s.a. Kotter, J.: <a href="https://hbr.org/2012/11/accelerate">Accelerate!</a>). Der neue Ansatz besteht jetzt aus fünf Prinzipien und acht “Beschleunigern”:</p>
 <p><strong>Die 5 Prinzipien des Dual Operating System:</strong></p>
@@ -170,28 +260,28 @@
 <li>Niemals aufgeben. Lernen Sie weiter aus Erfahrungen. Erklären Sie den Sieg nicht zu früh</li>
 <li>Strategische Veränderungen in der Kultur institutionalisieren</li>
 </ol>
-<h3 id="veränderung-bottom-up">Veränderung Bottom-up</h3>
+<h3 data-number="3.2.3" id="veränderung-bottom-up"><span class="header-section-number">3.2.3</span> Veränderung Bottom-up</h3>
 <p>Neben der Veränderung vom oberen Ende der Hierarchie kann der Impuls zur Veränderung auch von unten kommen. In der Gesellschaft spricht man dabei von <a href="https://de.wikipedia.org/wiki/Soziale_Bewegung">sozialen Bewegungen</a> (z.B. Occupy Wallstreet, Fridays for Future), in Organisationen wird oft der Begriff der Graswurzelbewegung verwendet (z.B. <a href="http://www.gernperdu.de">#gernperDu</a>, <a href="https://workingoutloud.com/de/fur-dich">Working Out Loud</a>). Gemein ist diesen Bewegungen, dass sie aus einer Gruppe von Personen besteht, die mit verschiedenen Mobilisierungs- und Handlungsstrategien versucht, gesellschaftlichen oder organisatorischen Wandel zu beschleunigen, zu verhindern oder umzukehren. Nach Herbert Blumer (1969) durchläuft eine soziale Bewegung einen fünfstufigen Lebenszyklus vom Auftauchen (emergence) bis zum Rückgang (decline):</p>
 <figure>
-<img src="./images/blumer-stufen-sozialer-bewegungen.png.png" alt="" /><figcaption>Stufen sozialer Bewegungen nach Blumer, eigene Darstellung</figcaption>
+<img src="./images/blumer-stufen-sozialer-bewegungen.png.png" alt="Stufen sozialer Bewegungen nach Blumer, eigene Darstellung" /><figcaption aria-hidden="true">Stufen sozialer Bewegungen nach Blumer, eigene Darstellung</figcaption>
 </figure>
 <p>Eine Übersicht aktueller Graswurzelbewegungen in Organisationen sind im Buch <a href="https://amzn.to/39SjqQX">Graswurzelinitiativen in Unternehmen: Ohne Auftrag – mit Erfolg!</a> von Sabine und Alexander Kluge zusammengefasst (s.a. Podcast <a href="https://klugesausdermitte.podigee.io">Kluges aus der Mitte</a>).</p>
-<h3 id="veränderung-middle-up-down">Veränderung Middle-Up-Down</h3>
+<h3 data-number="3.2.4" id="veränderung-middle-up-down"><span class="header-section-number">3.2.4</span> Veränderung Middle-Up-Down</h3>
 <p>Die Notwendigkeit, sich als Organisation immer schneller zu verändern, erfordert neue Ansätze. Top-Down-Ansätze erzeugen oft nicht die notwendige Veränderungsbereitschaft in der Breite, Bottom-Up-Ansätze stoßen an die sprichwörtliche “gläserne Decke” und sie verlaufen im Sand. In ihrem Buch The Knowledge-Creating Company haben Ikujiro Nonaka und Hirotaka Takeuchi den Ansatz des Middle-Up-Down Managements beschrieben, der schnelle Informationsverteilung und Wissensgenerierung in einer Organisation ermöglicht.</p>
 <p>Anders als die oft zitierte “Lähmschicht mittleres Management” sehen sie gerade Fach- und Führungskräften auf den mittleren Ebenen als entscheidende Akteure im Veränderungsprozess. Sie können die Brücke zwischen den visionären Idealen der obersten Leitung und den oft chaotischen Realitäten der Mitarbeitenden an vorderster Front bilden. Es entsteht eine spiralartige Bewegung, in der die großen Vision immer wieder an den bestehenden Realitäten gespiegelt werden und iterativer Fortschritt entsteht.</p>
 <figure>
-<img src="images/nonaka-middle-up-down-management.png" alt="" /><figcaption>Middle-up-down Management nach Nonaka, eigene Darstellung</figcaption>
+<img src="images/nonaka-middle-up-down-management.png" alt="Middle-up-down Management nach Nonaka, eigene Darstellung" /><figcaption aria-hidden="true">Middle-up-down Management nach Nonaka, eigene Darstellung</figcaption>
 </figure>
-<h3 id="lead-by-example---mit-gutem-beispiel-vorangehen">Lead by example - Mit gutem Beispiel vorangehen</h3>
+<h3 data-number="3.2.5" id="lead-by-example---mit-gutem-beispiel-vorangehen"><span class="header-section-number">3.2.5</span> Lead by example - Mit gutem Beispiel vorangehen</h3>
 <p>Im Veränderungsmanagement gibt es den schönen Spruch “Leading by example is not only a change method but the only one”. Gerade, wenn es bei dem Veränderungsvorhaben um Werte- oder Verhaltensänderung geht, müssen alle Treiber des Wandels mit gutem Beispiel voran gehen (Vorbilder, Role Models). Diesen Ansatz der Veränderung hat Mahatma Ghandi in diesem kurzen Zitat gut auf den Punkt gebracht:</p>
 <blockquote>
 <p>Be the change you want to see in the world.</p>
 </blockquote>
 <p>Das Video <a href="https://www.youtube.com/watch?v=fW8amMCVAJQ">First Follower: Leadership Lessons from Dancing Guy</a> zeigt das Gefühl, das man als erster Treiber einer Veränderung hat: man fühlt sich als “Lone Nut”. Es kommt darauf an, die ersten Personen zu finden, die mitmachen (First Follower). Sind diese gefunden, ist der Kern für für eine Veränderungsbewegung geschaffen, die von alleine wachsen und skalieren kann. Das Gefühl, das sich einstellt hat Lugano Kihachi im <a href="https://www.youtube.com/watch?v=Pm-np_XNqMc">Video zum Continental GUIDE Kick-off</a> mit “I’m not alone!” schön in Worte gekleidet.</p>
 <figure>
-<img src="./images/change-vs-be-changed.png" alt="" /><figcaption>Who wants change von Alan O’Rourke auf Flickr (CC BY 2.0)</figcaption>
+<img src="./images/change-vs-be-changed.png" alt="Who wants change von Alan O’Rourke auf Flickr (CC BY 2.0)" /><figcaption aria-hidden="true">Who wants change von Alan O’Rourke auf Flickr (CC BY 2.0)</figcaption>
 </figure>
-<h2 id="die-lernende-organisation-und-ihre-feinde">Die Lernende Organisation und ihre Feinde</h2>
+<h2 data-number="3.3" id="die-lernende-organisation-und-ihre-feinde"><span class="header-section-number">3.3</span> Die Lernende Organisation und ihre Feinde</h2>
 <p>Die Veränderung der Organisation ist immer mit Lernen auf individueller und/oder organisationaler Ebene verbunden. Die Idee der Lernenden Organisation geht zurück in die 1990er Jahre und die Gründung des MIT Center for Organizational Learning mit <a href="https://de.wikipedia.org/wiki/Peter_M._Senge">Peter Senge</a> als als Direktor sowie <a href="https://de.wikipedia.org/wiki/Edgar_Schein">Edgar Schein</a> und <a href="https://de.wikipedia.org/wiki/Chris_Argyris">Chris Argyris</a> als Schlüsselpersonen. Ähnlich wie das Konzept des <a href="https://de.wikipedia.org/wiki/Wissensmanagement">Wissensmanagements</a> betont das organisationale Lernen die Bedeutung von Lernen und Wissen für den Erfolg von Organisationen.</p>
 <p>Eine Lernende Organisation unterscheidet sich von einer Nicht-Lernenden Organisation dadurch, dass sie Wissen und Lernen nutzt, um sich mit der notwendigen Veränderungsgeschwindigkeit and die Veränderung in der Umwelt anzupassen (<a href="https://de.wikipedia.org/wiki/Survival_of_the_Fittest">Survival of the Fittest</a>):</p>
 <blockquote>
@@ -201,12 +291,12 @@
 <blockquote>
 <p>Zwei Männer sind zu Fuß in der Wüste unterwegs, als sie plötzlich einem Löwen gegenüberstehen. Der eine Mann reagiert panisch, der andere ist ganz ruhig, greift in seinen Rucksack, holt ein Paar Turnschuhe heraus und beginnt, diese anzuziehen. Sagt der andere Mann zu ihm: “Glaubst Du wirklich, dass Du mit den Turnschuhen schneller laufen kannst, als der Löwe?” Sagt der andere: “Nein, aber schneller, als Du.”.</p>
 </blockquote>
-<h3 id="die-2-schleifen-des-lernens">Die 2 Schleifen des Lernens</h3>
+<h3 data-number="3.3.1" id="die-2-schleifen-des-lernens"><span class="header-section-number">3.3.1</span> Die 2 Schleifen des Lernens</h3>
 <p>Zu den sehr frühen Modellen des organisationalen Lernens gehört das Zweischleifen-Lernen (Double-Loop-Learning) von Chris Agyris und Donald Schön. Beim Einschleifen-Lernen wird auf eine Differenz zwischen Intention und Ergebnis durch die Wahl einer neuen Handlungsstrategie reagiert. Variablen wie die Normen und Politik der Organisation sowie die Ziele werden als gesetzt hingenommen. Doppelschleifen-Lernen der Organisation liegt dann vor, wenn genau diese Veränderung von Variablen für die Lösung von Problemen oder die Erreichung von Ergebnissen auch mit in Betracht gezogen werden.</p>
 <figure>
-<img src="./images/schoen-doppelschleifen-lernen.png" alt="" /><figcaption>Doppelschleifen-Lernen nach Schön, eigene Darstellung</figcaption>
+<img src="./images/schoen-doppelschleifen-lernen.png" alt="Doppelschleifen-Lernen nach Schön, eigene Darstellung" /><figcaption aria-hidden="true">Doppelschleifen-Lernen nach Schön, eigene Darstellung</figcaption>
 </figure>
-<h3 id="die-5-disziplinen-der-lernenden-organisation">Die 5 Disziplinen der Lernenden Organisation</h3>
+<h3 data-number="3.3.2" id="die-5-disziplinen-der-lernenden-organisation"><span class="header-section-number">3.3.2</span> Die 5 Disziplinen der Lernenden Organisation</h3>
 <p>Wohl der bekannteste Ansatz für Lernende Organisationen sind die fünf Disziplinen von Peter Senge (s.a. <a href="https://infed.org/mobi/peter-senge-and-the-learning-organization/">Peter Senge and the learning organization</a>) aus dem Buch <a href="https://amzn.to/30kwStP">Die fünfte Disziplin: Kunst und Praxis der Lernenden Organisation</a>. Seine Definition einer Lernenden Organisation:</p>
 <blockquote>
 <p>Learning organizations are organizations where people continually expand their capacity to create the results they truly desire, where new and expansive patterns of thinking are nurtured, where collective aspiration is set free, and where people are continually learning to see the whole together.</p>
@@ -223,7 +313,7 @@
 <blockquote>
 <p>In a learning organization, leaders are designers, stewards and teachers. They are responsible for building organizations were people continually expand their capabilities to understand complexity, clarify vision, and improve shared mental models – that is they are responsible for learning…. Learning organizations will remain a ‘good idea’… until people take a stand for building such organizations. Taking this stand is the first leadership act, the start of inspiring (literally ‘to breathe life into’) the vision of the learning organization.</p>
 </blockquote>
-<h3 id="die-3-bausteine-der-lernenden-organisation">Die 3 Bausteine der Lernenden Organisation</h3>
+<h3 data-number="3.3.3" id="die-3-bausteine-der-lernenden-organisation"><span class="header-section-number">3.3.3</span> Die 3 Bausteine der Lernenden Organisation</h3>
 <p>Nach der Einschätzung David Garvin und Amy Edmondson (s.a. <a href="https://hbr.org/2008/03/is-yours-a-learning-organization">Is Your’s a Learning Organization?</a>) sind die fünf Disziplinen von Senge nicht konkret genug, um Handlung in Organisationen zu erzeugen (“They overemphasized the forest and paid little attention to the trees”). Aus der Forschung zu Organisation über zwei Jahrzehnte haben sie drei Bausteine (Building Blocks) für die Entwicklung einer Lernenden Organisation identifiziert:</p>
 <ol type="1">
 <li><strong>Führung, die das Lernen stärkt</strong> - das Lernen in einer Organisation wir sehr stark vom Verhalten der Führungskräfte beeinflusst. Wenn diese aktiv fragen, zuhören und dabei den Dialog anregen fühlen sich die Menschen ermutigt zu lernen. Wenn sie darüber hinaus signalisieren, dass ihnen die Investition von Zeit in Problemlösung, Wissenstransfer, Querdenken, neue Ideen und Reflexionsprozesse wichtig ist, werden diese Aktivitäten vermehrt stattfinden.</li>
@@ -231,7 +321,7 @@
 <li><strong>Eine unterstützende Lernumgebung</strong> - eine lernförderliche Umgebung kennzeichnet sich durch die vier Faktoren psychologische Sicherheit, Wertschätzung von Vielfalt, Offenheit gegenüber neuen Ideen und Zeit für Reflexion. Neben den weichen Faktoren der Lernumgebung gehört zu diesem Baustein auch die physische Lernumgebung (Gebäude, Räume, Lernorte etc.) sowie die virtuelle Lernumgebung (Persönliche Lernumgebung, Intranet, Soziales Netzwerk etc.)</li>
 </ol>
 <p>Die drei Bausteine sind dabei unabhängig voneinander. Es können je nach Bedarf in einem oder mehren Handlungsfelder Maßnahmen durchgeführt und Fortschritte gemessen werden.</p>
-<h3 id="die-13-feinde-der-lernenden-organisation">Die 13 Feinde der Lernenden Organisation</h3>
+<h3 data-number="3.3.4" id="die-13-feinde-der-lernenden-organisation"><span class="header-section-number">3.3.4</span> Die 13 Feinde der Lernenden Organisation</h3>
 <p>Spricht man über Wissen und Lernen als Erfolgsfaktoren für die Zukunft gibt es meist keine offensichtliche “Feinde”, die aktiv dagegen argumentieren. Wichtig ist daher, sich der vielen kleine und großen Barrieren im Alltag der Entwicklung einer Lernenden Organisation bewusst zu sein, sie frühzeitig in der eigenen Praxis zu erkennen und darauf reagieren zu können.</p>
 <p>Der <a href="https://www.project-consult.de/Files/CWA_KnowledgeManagement.pdf">Europäischer Leitfaden zur erfolgreichen Praxis im Wissensmanagement</a> (2004) enthält eine recht vollständige Übersicht an Barrieren in der Praxis (inkl. Verweisen auf Kapitel, in denen diese beschrieben sind):</p>
 <ol type="1">
@@ -249,7 +339,7 @@
 <li><strong>Eine Überbewertung von Technologie oder inadäquate technische Hilfsmittel:</strong> Manche Manager meinen, dass alleine das Bereitstellen von Informationen an Mitarbeiter an sich schon ein Wert für die Organisation darstellt. Der Wert eines Kommunikationskanals liegt nicht so sehr darin, welches Wissen damit verfügbar gemacht wird, sondern in der menschlichen Interaktion, die darüber ermöglicht wird.</li>
 <li><strong>Wissen wächst nicht ewig:</strong> Das Verlernen und das Ablassen von alten Denkgewohnheiten, ja sogar das Ausscheiden ganzer Wissensbestände, tragen zur Vitalität und Evolution von Wissen bei.</li>
 </ol>
-<h3 id="die-iso-304012018-als-standard-für-die-lernende-organisation">Die ISO 30401:2018 als Standard für die Lernende Organisation</h3>
+<h3 data-number="3.3.5" id="die-iso-304012018-als-standard-für-die-lernende-organisation"><span class="header-section-number">3.3.5</span> Die ISO 30401:2018 als Standard für die Lernende Organisation</h3>
 <p>Der Standard <a href="https://www.iso.org/standard/68683.html">ISO 30401:2018</a> wurde vom Technische Kommittee 260 “Human Resource Management” der Internationalen Organisation für Normung (ISO) im Jahr 2018 veröffentlicht. Ziel des Standards ist es, ein für die jeweilige Organisation angepasstes Management System zu entwickeln, dass Wertschöpfung durch Wissen und Lernen systematisch fördert.</p>
 <p>Im Standard werden 8 Leitprinzipien für dieses Management System beschrieben, die im folgenden kompakt zusammengefasst sind:</p>
 <ol type="1">
@@ -266,21 +356,21 @@
 <p>Das <a href="https://amzn.to/3iz3Lcz">KM Cookbook</a> nutzt die Metapher des Restaurants, um anschaulich Fallbeispiele von Lernenden Organisationen darzustellen. Als Rollen werden dabei der Restaurantbesitzer (Sponsor), die Kunden (Organisation), der Koch (KM Leader) und die Beschäftigten des Restaurants (KM Team und externe Unterstützung) unterschieden. Die Fallbeispiele kommen u.a. von General Electric, der Weltbank, Schlumberger, dem Internationalen Olympischen Kommittee und den Ärzten ohne Grenzen.</p>
 <p>Als strategisches Tool wird der KM Chef’s Canvas beschrieben, der entlang der Kategorien des ISO 30401 Standards strukturiert ist und 57 Leitfragen stellt, mit denen der eigene Ansatz des Wissensmanagements gestaltet werden kann.</p>
 <figure>
-<img src="./images/km-chefs-canvas-v10.jpg" alt="" /><figcaption>KM Chef’s Canvas 1.0 (CC BY NC ND)</figcaption>
+<img src="./images/km-chefs-canvas-v10.jpg" alt="KM Chef’s Canvas 1.0 (CC BY NC ND)" /><figcaption aria-hidden="true">KM Chef’s Canvas 1.0 (CC BY NC ND)</figcaption>
 </figure>
 <p><strong>Hinweis:</strong> Mit dem Durchlaufen des Lernpfades in diesem Leitfaden entwickelt man einen Ansatz der Lernenden Organisation, der alle Anforderungen der ISO 30401:2018 erfüllt.</p>
-<h3 id="der-lernos-canvas-für-organisationen">Der lernOS Canvas für Organisationen</h3>
+<h3 data-number="3.3.6" id="der-lernos-canvas-für-organisationen"><span class="header-section-number">3.3.6</span> Der lernOS Canvas für Organisationen</h3>
 <p>Der lernOS Canvas hilft, das “Systemdenken” über die eigene Organisation zu entwickeln. Mit ihm können die wichtigsten Elemente des “Lernenden Systems” der eigenen Organisation identifiziert, Verbesserungspotentiale benannt und bewertet werden.</p>
 <p>Wie auch beim <a href="https://en.wikipedia.org/wiki/Business_Model_Canvas">Business Model Canvas</a> von Alexander Osterwald dient der lernOS Canvas als Arbeitsinstrument, um am Whiteboard (physisch oder digital) mit einer Gruppe von Personen über die einzelnen Felder des Canvas reden zu können. Sind Systemelemente identifiziert, können diese als Haftnotiz in den Canvas geklebt werden. Man sollte nie auf den Canvas schreiben, da das den Prozess unflexibel macht.</p>
 <figure>
-<img src="./images/lernOS-Canvas-for-Organizations-de.png" alt="" /><figcaption>lernOS Canvas für Organisationen</figcaption>
+<img src="./images/lernOS-Canvas-for-Organizations-de.png" alt="lernOS Canvas für Organisationen" /><figcaption aria-hidden="true">lernOS Canvas für Organisationen</figcaption>
 </figure>
 <p>Mit zwei verschiedenen Farben von Haftnotizen kann der Ist-Zustand und das Verbesserungspotential nebeneinander dargestellt werden. Es können z.B. gelbe Haftnotizen für den Ist-Zustand und orange Haftnotizen für mögliche Initiativen zur Verbesserung. Ist die Sammlung der Elemente in allen Bereichen abgeschlossen, können diese mit Punkten bewertet werden, um die wichtigsten Handlungsfelder zu identifizieren.</p>
 <p>Der lernOS Canvas für Organisationen besteht aus vier Bereichen. Zentrales Elemente ist der Zweck oder der Organisation, also was die Organisation wirklich, wirklich will. Die vier quadratischen Kästen im linken Teil stellen dar, wer in der Organisation wie handelt (Hierarchie, Prozesse, Netzwerke, Communities) und was für die Ausführung der Handlungen benötigt wird (Menschen, Fähigkeiten, Technik, Infrastruktur).</p>
 <p>In den vier Kästen im rechten Teil wird abgebildet, für wen was gemacht wird (Kunden, Zielgruppen, Produkte, Ergebnisse), in welche Richtung die Reise gehen soll (Vision, Strategie, Ziele) und welche kulturellen Rahmenbedingungen zu beachten sind (Kultur, Werte).</p>
 <p>Im unteren Bereich des Canvas befindet sich jeweils ein Rechteck für Potentiale (Stärken, Kapital) und Risikofaktoren (Schwächen, Risiken). Mit dem Begriff Kapital ist dabei nicht nur das finanzielle Kapital, sondern auch das <a href="https://de.wikipedia.org/wiki/Intellektuelles_Kapital">intellektuelle Kapital</a> der Organisation gemeint.</p>
 <p><strong>ProTip:</strong> die Grafik des lernOS Canvas kann für die virtuelle Zusammenarbeit ganz einfach in digitale Whiteboards wie z.B. Microsoft Whiteboard, Mural, Miro oder Conceptboard kopiert werden.</p>
-<h2 id="eine-lernende-organisation-kultivieren">Eine Lernende Organisation kultivieren</h2>
+<h2 data-number="3.4" id="eine-lernende-organisation-kultivieren"><span class="header-section-number">3.4</span> Eine Lernende Organisation kultivieren</h2>
 <p>Dieses Kapitel beschreibt alle notwendigen Bestandteile, um mit lernOS für Organisationen gemeinsam eine Lernende Organisation zu kultivieren. Besonders wichtig ist, von Anfang an auf die richtige Sprache zu achten. So kann man Wissensmanagement, Lernende Organisationen oder Lernkulturen nicht “einführen” Das ist ein in der Vergangenheit oft gemachter Fehler, der meist zum Scheitern oder zumindest nicht zum dauerhaften Überleben des Ansatzes geführt hat. Da man eine Organsation wie ausgeführt als soziotechnisches und komplex-adaptives System begreifen muss, wird hier von der “Kultivierung der Lernenden Organisation” gesprochen. Bei dieser Kultivierung wird neben der Einführung von Methoden und Tools auch die Entwicklung von Rahmenbedingungen, Werten und Haltungen (Mindset) geachtet.</p>
 <p>Der Ansatz von lernOS für Organisationen besteht sich aus zwei zentralen Bestandteilen:</p>
 <ol type="1">
@@ -288,10 +378,10 @@
 <li><strong>Open Space des Lernens:</strong> Das bewährte <a href="https://de.wikipedia.org/wiki/Open_Space">Open Space Format</a> von Harrison Owen hat Daniel Mezick unter dem Namen <a href="https://openspaceagility.com/">Open Space Agility</a> für die Entwicklung agiler Organisationen adaptiert. In regelmäßigen Abständen von 3-6 Monaten wird die Organisation eingeladen, sich zu einem ausgewählten Motto auszutauschen und zwischen den Open Spaces Lern-Experimente durchzuführen. Der Open Space des Lernens wird von der Koalition des Lernens organisiert. Auch der Open Space kann bei Bedarf anders benannt werden.</li>
 </ol>
 <p>Ähnlich dem Konzept des Lebenslangen Lernens (s.a. lernOS für Dich Leitfaden) kann die Entwicklung oder Kultivierung einer Lernenden Organisation nicht als kurzfristiges Projekt oder Programm angegangen werden, sondern erfordert dauerhaftes Engagement der Organisation.</p>
-<h3 id="koalition-des-lernens-kdl">Koalition des Lernens (KdL)</h3>
+<h3 data-number="3.4.1" id="koalition-des-lernens-kdl"><span class="header-section-number">3.4.1</span> Koalition des Lernens (KdL)</h3>
 <p>Die Koalition des Lernens ist eine Gruppe von mindestens drei Personen in der Organisation, denen Wissen und Lernen wirklich, wirklich am Herzen liegen. Anders als frühere Wissensmanagement-Abteilungen oder Bereiche des Chief Learning/Knowledge Office ist die Koalition des Lernens nicht als “Kästchen im Organigramm” verortet, sondern bildet den Kern der Netzwerkstruktur der Organisation (Wie bei Kotter die “Guiding Coalition”). Akteure in der Koalition des Lernens kommen typischerweise aus Personal, Organisationsentwicklung, IT, Strategie, Wissens-/Innovations-/Qualitätsmanagement oder den Fachbereichen.</p>
 <figure>
-<img src="./images/koalition-des-lernens.png" alt="" /><figcaption>Koalition des Lernens in Anlehnung an Kotters Guiding Coalition</figcaption>
+<img src="./images/koalition-des-lernens.png" alt="Koalition des Lernens in Anlehnung an Kotters Guiding Coalition" /><figcaption aria-hidden="true">Koalition des Lernens in Anlehnung an Kotters Guiding Coalition</figcaption>
 </figure>
 <p><strong>Eigenschaften der Koalition des Lernens:</strong></p>
 <ul>
@@ -310,7 +400,7 @@
 <li>Kontinuierlich nach neuen Mitgliedern für die Koalition des Lernens Ausschau halten und diese einbinden.</li>
 <li>Erfolge und Geschichten sichtbar machen, kommunizieren und in den Kontext der Lernenden Organisation stellen (nach innen und nach außen).</li>
 </ul>
-<h3 id="open-space-des-lernens-osdl">Open Space des Lernens (OSdL)</h3>
+<h3 data-number="3.4.2" id="open-space-des-lernens-osdl"><span class="header-section-number">3.4.2</span> Open Space des Lernens (OSdL)</h3>
 <p>Das Open Space Format (auch Open Space Technology) für Veranstaltungen wurde um 1985 von Harrison Owen entwickelt. Das Format ermöglicht es Gruppen von 5-2.000 Personen in einem (architektonisch und geistig) offenen Raum komplexe Probleme und Fragestellungen zu bearbeiten. Um einen erfolgreichen Open Space durchzuführen braucht es nur vier Dinge:</p>
 <ol type="1">
 <li>Ein fesselndes Thema oder Motto</li>
@@ -478,7 +568,7 @@
 <li>Zeit und Ort für den nächsten Open Space</li>
 </ul>
 <p>Das Open Space Protokoll wird der ganzen Organisation wenige Stunden nach der Veranstaltung (maximal 24 Stunden) bereitgestellt. Das Dokumentationsmedium sollte dem Kontext und den Teilnehmenden angemessen sein (z.B. Wiki, OneNote, Etherpad). Für die Bereitstellung von Dateien und Bildern bietet sich ein Bereich für unkomplizierten Datei-Upload an.</p>
-<h3 id="werkzeugkasten-des-lernens-wdl">Werkzeugkasten des Lernens (WdL)</h3>
+<h3 data-number="3.4.3" id="werkzeugkasten-des-lernens-wdl"><span class="header-section-number">3.4.3</span> Werkzeugkasten des Lernens (WdL)</h3>
 <p>Nicht jedes Rad muss die Organisation und die Koalition des Lernens neu erfinden. Es gibt viele bewährte Methoden und Tools für den guten Umgang mit Wissen. Diese können im Rahmen eines Sprints erlernt und ausprobiert werden. Für einige dieser Methoden und Tools hält die lernOS Toolbox Leitfäden bereit, die zum leichten Einstieg eingesetzt und bei Bedarf angepasst werden können.</p>
 <p>Aktueller Inhalt der <strong>lernOS Toolbox</strong>:</p>
 <ol type="1">
@@ -494,7 +584,7 @@
 <li><strong>Working Out Loud:</strong> Working Out Loud (WOL) ist eine Methode zum strategischen Netzwerken und offenen Teilen von Inhalten (WOL Lernpfad im <a href="https://cogneon.github.io/lernos-for-you/de/">lernOS für Dich Leitfaden</a> oder <a href="https://workingoutloud.com/de/fur-dich">Working Out Loud Guides</a>).</li>
 </ol>
 <p>Weitere, oft im Rahmen von Lern-Sprints eingesetzte Methoden und Tools sind: Coworking, Design Thinking, Enterprise Social Networks, Fedex/SameDayDelivery Days, Hackathon, Lessons Learned/Retrospektiven, Massive Open Online Courses, Scrum/Agile Methode und Wikis.</p>
-<h1 id="lernpfad">Lernpfad</h1>
+<h1 data-number="4" id="lernpfad"><span class="header-section-number">4</span> Lernpfad</h1>
 <p>Beim ersten Durchlauf der Koalition des Lernens durch den Lernpfad werden die Grundlagen für die nachhaltige Kultivierung einer Lernenden Organisation geschaffen. Die Koalition des Lernens hat sich formiert und wird in der Organisation mit ihren Zielen sichtbar. Das erste wichtige Thema für die Kultivierung der Lernenden Organisation ist identifiziert, beschrieben und als Motto des ersten Open Space des Lernens festgelegt. Das erste OSL hat stattgefunden, im Protokoll sind konkrete Lern-Aktivitäten und -Initiativen dokumentiert. Der nächste OSL ist terminiert.</p>
 <ol type="1">
 <li><strong>Die eigene Organisation verstehen (Kata)</strong> Analysiere mit dem lernOS Canvas für Organisationen die aktuelle Situation deiner Organisation und identifiziere mögliche Handlungsfelder.</li>
@@ -509,13 +599,13 @@
 <li><strong>Ein letzter “Call for Participation” (Kata)</strong> Rufe alle Teilnehmer des Open Space über die digitale Kommunikationsplattform auf, sich und ihre Wünsche an die Veranstaltung vorzustellen sowie mögliche Open Space Sessions auf dem Session-Marktplatz einzutragen.</li>
 <li><strong>Der Open Space des Lernens findet statt (Kata)</strong> Moderiere das Open Space des Lernens und erstelle das Open Space Protokoll. Identifiziere die Aktivitäten und Initiativen, die du im kommenden Sprint “Auf dem Radar” behalten möchtest.</li>
 </ol>
-<h1 id="anhang">Anhang</h1>
-<h2 id="danksagungen">Danksagungen</h2>
+<h1 data-number="5" id="anhang"><span class="header-section-number">5</span> Anhang</h1>
+<h2 data-number="5.1" id="danksagungen"><span class="header-section-number">5.1</span> Danksagungen</h2>
 <p>lernOS ist von vielen Personen und Quellen inspiriert und steht daher <a href="https://de.wikipedia.org/wiki/Zwerge_auf_den_Schultern_von_Riesen">auf den Schultern von Riesen</a>. Ein Überblick über die Wurzeln und Inspirationen habe ich <a href="https://github.com/cogneon/lernos-core/wiki">im lernOS Wiki</a> zusammengestellt. Für diesen Leitfaden möchte ich besonders danken:</p>
 <ul>
 <li>…</li>
 </ul>
-<h2 id="änderungshistorie">Änderungshistorie</h2>
+<h2 data-number="5.2" id="änderungshistorie"><span class="header-section-number">5.2</span> Änderungshistorie</h2>
 <table>
 <colgroup>
 <col style="width: 6%" />
@@ -547,19 +637,19 @@
 <tr class="odd">
 <td>0.3</td>
 <td>Simon Dückert</td>
-<td>Einarbeitung des Feedbacks vom Corporate Learning Camp (s.a. https://cogneon.de/2017/10/02/lernos-session-auf-dem-corporate-learning-camp/&gt;): SWOT aus Prozess entfernt (NEGATIV 1), stattdessen Symbolik des Kompass für Vision, Ziele, Strategie, Scope „Gesellschaft" ergänzt (NEGATIV 15), Hintergründe zur Namenswahl lernOS in der Einleitung ergänzt</td>
+<td>Einarbeitung des Feedbacks vom Corporate Learning Camp (s.a. https://cogneon.de/2017/10/02/lernos-session-auf-dem-corporate-learning-camp/&gt;): SWOT aus Prozess entfernt (NEGATIV 1), stattdessen Symbolik des Kompass für Vision, Ziele, Strategie, Scope „Gesellschaft” ergänzt (NEGATIV 15), Hintergründe zur Namenswahl lernOS in der Einleitung ergänzt</td>
 <td>15.10.2017</td>
 </tr>
 <tr class="even">
 <td>0.4</td>
 <td>Simon Dückert</td>
-<td>Ergänzung des Kapitels „Erfolgsfaktoren" mit der ganzheitlichen Perspektive Mindset, Skillset, Toolset aus dem Cogneon Guide Netzwerk Konzept.</td>
+<td>Ergänzung des Kapitels „Erfolgsfaktoren” mit der ganzheitlichen Perspektive Mindset, Skillset, Toolset aus dem Cogneon Guide Netzwerk Konzept.</td>
 <td>03.11.2017</td>
 </tr>
 <tr class="odd">
 <td>0.5</td>
 <td>Simon Dückert</td>
-<td>„Apps" durch „Toolbox" und „App" durch „Tool" ersetzt; wg. Feedback und KnowTouch Talk zu Framework – Toolbox – Tool ()</td>
+<td>„Apps” durch „Toolbox” und „App” durch „Tool” ersetzt; wg. Feedback und KnowTouch Talk zu Framework – Toolbox – Tool ()</td>
 <td>18.03.2018</td>
 </tr>
 <tr class="even">
@@ -571,8 +661,8 @@
 <tr class="odd">
 <td>0.7</td>
 <td>Simon Dückert</td>
-<td>…</td>
-<td>dd.dd.2020</td>
+<td>Grundlagen-Kapitel vollständig überarbeitet</td>
+<td>12.09.2020</td>
 </tr>
 </tbody>
 </table>
