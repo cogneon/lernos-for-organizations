@@ -1060,37 +1060,6 @@
 
 
 
-<!-- Inject Disqus into current page -->
-
-  <h2 id="__comments">Kommentare</h2>
-  <div id="disqus_thread"></div>
-  <script>
-    var disqus_config = function() {
-      this.page.url = "https://cogneon.github.io/3-1-Ein-zeitgemaesses-Verstaendnis-von-Organisation/"
-      this.page.identifier =
-        "3-1-Ein-zeitgemaesses-Verstaendnis-von-Organisation/"
-
-    }
-
-    /* Set up for the first time */
-    if (typeof DISQUS === "undefined") {
-      var script = document.createElement("script")
-      script.async = true
-      script.src = "https://lernos.disqus.com/embed.js"
-      script.setAttribute("data-timestamp", Date.now())
-
-      /* Inject script tag */
-      document.body.appendChild(script)
-
-    /* Set up on navigation (instant loading) */
-    } else {
-      DISQUS.reset({
-        reload: true,
-        config: disqus_config
-      })
-    }
-  </script>
-
                 
               </article>
             </div>
