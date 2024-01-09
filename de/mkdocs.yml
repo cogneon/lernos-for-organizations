@@ -15,11 +15,10 @@ nav:
     - Anhang:
         - Anhang: 5-Anhang.md
     - Download:
-      - PDF-Version: https://github.com/cogneon/lernos-for-organizations/blob/master/de/lernOS-Guide-for-Organizations-de.pdf
-      - Word-Version: https://github.com/cogneon/lernos-for-organizations/blob/master/de/lernOS-Guide-for-Organizations-de.docx
-      - HTML-Version: https://github.com/cogneon/lernos-for-organizations/blob/master/de/lernOS-Guide-for-Organizations-de.html
-      - E-Book (epub): https://github.com/cogneon/lernos-for-organizations/blob/master/de/lernOS-Guide-for-Organizations-de.epub
-      - E-Book (mobi): https://github.com/cogneon/lernos-for-organizations/blob/master/de/lernOS-Guide-for-Organizations-de.mobi
+      - PDF-Version: https://github.com/cogneon/lernos-for-organizations/blob/master/de/lernos-for-organizations-guide.pdf
+      - Word-Version: https://github.com/cogneon/lernos-for-organizations/blob/master/de/lernos-for-organizations-guide.docx
+      - HTML-Version: https://github.com/cogneon/lernos-for-organizations/blob/master/de/lernos-for-organizations-guide.html
+      - E-Book (epub): https://github.com/cogneon/lernos-for-organizations/blob/master/de/lernos-for-organizations-guide.epub
     - Links:
       - lernOS Website: https://lernos.org
       - lernOS Community: https://community.cogneon.de
@@ -43,13 +42,13 @@ repo_url: 'https://github.com/cogneon/lernos-for-organizations'
 
 extra:
     social:
-        - icon: fontawesome/brands/twitter
-          link: https://twitter.com/lern_os
+        - icon: fontawesome/brands/mastodon
+          link: 'https://colearn.social/@lernos'
         - icon: fontawesome/brands/linkedin
-          link: https://www.linkedin.com/showcase/lern-os
+          link: 'https://www.linkedin.com/showcase/lern-os'
         - icon: fontawesome/brands/github
-          link: https://github.com/cogneon
-    disqus: lernos
+          link: 'https://github.com/cogneon'
+    giscus: true
     analytics:
        provider: custom
 
