@@ -1,10 +1,10 @@
 ## Eine Lernende Organisation kultivieren
 
-Dieses Kapitel beschreibt alle notwendigen Bestandteile, um mit lernOS für Organisationen gemeinsam eine Lernende Organisation zu kultivieren. Besonders wichtig ist, von Anfang an auf die richtige Sprache zu achten. So kann man Wissensmanagement, Lernende Organisationen oder Lernkulturen nicht "einführen" Das ist ein in der Vergangenheit oft gemachter Fehler, der meist zum Scheitern oder zumindest nicht zum dauerhaften Überleben des Ansatzes geführt hat. Da man eine Organsation wie ausgeführt als soziotechnisches und komplex-adaptives System begreifen muss, wird hier von der "Kultivierung der Lernenden Organisation" gesprochen. Bei dieser Kultivierung wird neben der Einführung von Methoden und Tools auch die Entwicklung von Rahmenbedingungen, Werten und Haltungen (Mindset) geachtet.
+Dieses Kapitel beschreibt alle notwendigen Bestandteile, um mit lernOS für Organisationen gemeinsam eine Lernende Organisation zu kultivieren. Besonders wichtig ist, von Anfang an auf die richtige Sprache zu achten. So kann man Wissensmanagement, Lernende Organisationen oder Lernkulturen nicht "einführen", dies ist ein in der Vergangenheit oft gemachter Fehler, der meist zum Scheitern oder zumindest nicht zum dauerhaften Überleben des Ansatzes geführt hat. Da man eine Organsation wie ausgeführt als soziotechnisches und komplex-adaptives System begreifen muss, wird hier von der "Kultivierung der Lernenden Organisation" gesprochen. Bei dieser Kultivierung wird neben der Einführung von Methoden und Tools auch die Entwicklung von Rahmenbedingungen, Werten und Haltungen (Mindset) geachtet.
 
-Der Ansatz von lernOS für Organisationen besteht sich aus zwei zentralen Bestandteilen:
+Der Ansatz von lernOS für Organisationen besteht aus zwei zentralen Bestandteilen:
 
-1. **Koalition des Lernens:** Die "Guiding Coalition" nach Kotter als zentralem Akteur, bestehend aus einer Gruppe von Personen, die das Leitbild der Lernenden Organisation als "Nordstern" in der Organisation etabliert, unterstützende Initiativen identifiziert und vernetzt sowie. Die Koalition des Lernens kann je nach Geschmack und Bedürfnissen der Organisation natürlich auch anders benannt werden.
+1. **Koalition des Lernens:** Die "Guiding Coalition" nach Kotter als zentralem Akteur, bestehend aus einer Gruppe von Personen, die das Leitbild der Lernenden Organisation als "Nordstern" in der Organisation etabliert, unterstützende Initiativen identifiziert und diese vernetzt. Die Koalition des Lernens kann je nach Geschmack und Bedürfnissen der Organisation natürlich auch anders benannt werden.
 2. **Open Space des Lernens:** Das bewährte [Open Space Format](https://de.wikipedia.org/wiki/Open_Space) von Harrison Owen hat Daniel Mezick unter dem Namen [Open Space Agility](https://openspaceagility.com/) für die Entwicklung agiler Organisationen adaptiert. In regelmäßigen Abständen von 3-6 Monaten wird die Organisation eingeladen, sich zu einem ausgewählten Motto auszutauschen und zwischen den Open Spaces Lern-Experimente durchzuführen. Der Open Space des Lernens wird von der Koalition des Lernens organisiert. Auch der Open Space kann bei Bedarf anders benannt werden.
 
 Ähnlich dem Konzept des Lebenslangen Lernens (s.a. lernOS für Dich Leitfaden) kann die Entwicklung oder Kultivierung einer Lernenden Organisation nicht als kurzfristiges Projekt oder Programm angegangen werden, sondern erfordert dauerhaftes Engagement der Organisation.
@@ -24,7 +24,7 @@ Die Koalition des Lernens ist eine Gruppe von mindestens drei Personen in der Or
 
 **Die wichtigsten Aufgaben der Koalition des Lernens:**
 
-* Die Vision der Lernenden Organisation als "Nordstern" und die große Chance, die für die Organisation darin liegt klar herausarbeiten, dokumentieren und kommunizieren.
+* Die Vision der Lernenden Organisation als "Nordstern" zu etablieren. Dies beinhaltet die damit verbundene große Chance für die Organisation klar herauszuarbeiten, zu dokumentieren und zu kommunizieren.
 * Einen Sponsor für die Vision der Lernenden Organisation auf oberster Leitungsebene finden und mit diesem im regelmäßigen Austausch sein
 * Initiativen identifizieren und sich mit diesen vernetzen, die an der Kultivierung der Lernenden Organisation mitwirken. Bei Bedarf (und verfügbarer Ressource) neue Initiativen starten.
 * Eine "Armee von Freiwilligen" auf- und ausbauen, die die Kultivierung der Lernenden Organisation sowie die Initiativen und Lern-Experimente unterstützt.
