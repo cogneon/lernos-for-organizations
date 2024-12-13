@@ -8,7 +8,7 @@
 
 Für die Entwicklung Lernender Organisationen ist ein Grundverständnis von [Organisationstheorie](https://de.wikipedia.org/wiki/Organisationstheorie) und [Systemtheorie](https://de.wikipedia.org/wiki/Systemtheorie), insbesondere [komplexe adaptive System](https://de.wikipedia.org/wiki/Komplexes_adaptives_System) und [soziotechnische Systeme](https://de.wikipedia.org/wiki/Soziotechnisches_System), notwendig. Ein System besteht aus Einzelteilen und ist von seiner Umwelt abgegrenzt. Ein Unternehmen wäre danach z.B. von der Gesellschaft (Umwelt) abgegrenzt, gleichzeitig besteht es aus Abteilungen, Menschen und Prozessen (Einzelteile).
 
-Der Soziologe Niklas Luhmann ist eine Organisation durch drei Merkmale gekennzeichnet (s.a. Kühl, S.: [Organisationen - eine sehr kurze Einführung](https://amzn.to/3jCIVtW)):
+Laut Soziologe Niklas Luhmann ist eine Organisation durch drei Merkmale gekennzeichnet (s.a. Kühl, S.: [Organisationen - eine sehr kurze Einführung](https://amzn.to/3jCIVtW)):
 
 1. **Zweck:** der selbst gegebene Zweck der Organisation dient als roter Faden für alles organisatorische Handeln.
 2. **Mitgliedschaft:** die Organisation kann über den Ein- und Austritt von Mitglieder entscheiden.
@@ -63,7 +63,7 @@ Neben der Struktur der Organisation gewinnt auch die organisationale Kultur für
 Der Sozialwissenschaftler [Edgar Schein](https://de.wikipedia.org/wiki/Edgar_Schein) hat mit seinem [Kultureben-Modell](https://de.wikipedia.org/wiki/Kulturebenen-Modell) eine gute Darstellung für die verschiedenen Ansatzpunkte für den Kulturwandel in Organisationen geschaffen. Das Modell besteht aus drei Ebenen, die sich wechselseitig beeinflussen (Schein, E.: [Organisationskultur](https://amzn.to/2D4fosE)):
 
 * **Artefakte:** sichtbare Organisationsstrukturen und -prozesse
-* **Öffentlich probagierte Werte:** Strategien, Ziele Philosophien
+* **Öffentlich propagierte Werte:** Strategien, Ziele und Philosophien
 * **Grundlegende unausgesprochene Annahmen:** unbewusst, für selbstverständlich gehaltene Überzeugungen, Wahrnehmungen, Gedanken und Gefühle
 
 Schein weist aber auch darauf hin, das die drei Ebenen "Manifestationen von Kultur", nicht die Kultur selber sind. Aus dem Modell ergeben sich für einen kulturellen Wandel die Ansatzpunkte Veränderung von Artefakten, probagieren neuer Werte sowie das Hinterfragen von Grundannahmen.
